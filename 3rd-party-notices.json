@@ -105,8 +105,8 @@
       "package_url": "https://crates.io/crates/bumpalo/3.13.0",
       "license_id": "MIT/Apache-2.0",
       "notices": [
-        "Authors: Nick Fitzgerald <fitzgen@gmail.com>",
-        "Copyright (c) 2019 Nick Fitzgerald"
+        "Copyright (c) 2019 Nick Fitzgerald",
+        "Authors: Nick Fitzgerald <fitzgen@gmail.com>"
       ]
     },
     {
@@ -136,8 +136,8 @@
       "package_url": "https://crates.io/crates/cc/1.0.83",
       "license_id": "MIT OR Apache-2.0",
       "notices": [
-        "Authors: Alex Crichton <alex@alexcrichton.com>",
-        "Copyright (c) 2014 Alex Crichton"
+        "Copyright (c) 2014 Alex Crichton",
+        "Authors: Alex Crichton <alex@alexcrichton.com>"
       ]
     },
     {
@@ -203,8 +203,8 @@
       "package_url": "https://crates.io/crates/core-foundation-sys/0.8.4",
       "license_id": "MIT / Apache-2.0",
       "notices": [
-        "Authors: The Servo Project Developers",
-        "Copyright (c) 2012-2013 Mozilla Foundation"
+        "Copyright (c) 2012-2013 Mozilla Foundation",
+        "Authors: The Servo Project Developers"
       ]
     },
     {
@@ -221,8 +221,8 @@
       "package_url": "https://crates.io/crates/darling_core/0.14.4",
       "license_id": "MIT",
       "notices": [
-        "Authors: Ted Driggs <ted.driggs@outlook.com>",
-        "Copyright (c) 2017 Ted Driggs"
+        "Copyright (c) 2017 Ted Driggs",
+        "Authors: Ted Driggs <ted.driggs@outlook.com>"
       ]
     },
     {
@@ -239,8 +239,8 @@
       "package_url": "https://crates.io/crates/derive_builder/0.12.0",
       "license_id": "MIT/Apache-2.0",
       "notices": [
-        "Copyright (c) 2016 rust-derive-builder contributors",
-        "Authors: Colin Kiegel <kiegel@gmx.de>, Pascal Hertleif <killercup@gmail.com>, Jan-Erik Rediger <janerik@fnordig.de>, Ted Driggs <ted.driggs@outlook.com>"
+        "Authors: Colin Kiegel <kiegel@gmx.de>, Pascal Hertleif <killercup@gmail.com>, Jan-Erik Rediger <janerik@fnordig.de>, Ted Driggs <ted.driggs@outlook.com>",
+        "Copyright (c) 2016 rust-derive-builder contributors"
       ]
     },
     {
@@ -248,8 +248,8 @@
       "package_url": "https://crates.io/crates/derive_builder_core/0.12.0",
       "license_id": "MIT/Apache-2.0",
       "notices": [
-        "Copyright (c) 2016 rust-derive-builder contributors",
-        "Authors: Colin Kiegel <kiegel@gmx.de>, Pascal Hertleif <killercup@gmail.com>, Jan-Erik Rediger <janerik@fnordig.de>, Ted Driggs <ted.driggs@outlook.com>"
+        "Authors: Colin Kiegel <kiegel@gmx.de>, Pascal Hertleif <killercup@gmail.com>, Jan-Erik Rediger <janerik@fnordig.de>, Ted Driggs <ted.driggs@outlook.com>",
+        "Copyright (c) 2016 rust-derive-builder contributors"
       ]
     },
     {
@@ -289,8 +289,8 @@
       "package_url": "https://crates.io/crates/errno-dragonfly/0.1.2",
       "license_id": "MIT",
       "notices": [
-        "Authors: Michael Neumann <mneumann@ntecs.de>",
-        "Copyright (c) 2017 Michael Neumann"
+        "Copyright (c) 2017 Michael Neumann",
+        "Authors: Michael Neumann <mneumann@ntecs.de>"
       ]
     },
     {
@@ -298,8 +298,8 @@
       "package_url": "https://crates.io/crates/fnv/1.0.7",
       "license_id": "Apache-2.0 / MIT",
       "notices": [
-        "Copyright (c) 2017 Contributors",
-        "Authors: Alex Crichton <alex@alexcrichton.com>"
+        "Authors: Alex Crichton <alex@alexcrichton.com>",
+        "Copyright (c) 2017 Contributors"
       ]
     },
     {
@@ -307,8 +307,8 @@
       "package_url": "https://crates.io/crates/hashbrown/0.14.0",
       "license_id": "MIT OR Apache-2.0",
       "notices": [
-        "Copyright (c) 2016 Amanieu d'Antras",
-        "Authors: Amanieu d'Antras <amanieu@gmail.com>"
+        "Authors: Amanieu d'Antras <amanieu@gmail.com>",
+        "Copyright (c) 2016 Amanieu d'Antras"
       ]
     },
     {
@@ -342,10 +342,10 @@
       "package_url": "https://crates.io/crates/humantime/2.1.0",
       "license_id": "MIT/Apache-2.0",
       "notices": [
-        "Copyright © 2005-2013 Rich Felker",
         "Copyright (c) 2016 The humantime Developers",
-        "Copyright (c) 2016 Pyfisch",
-        "Authors: Paul Colomiets <paul@colomiets.name>"
+        "Authors: Paul Colomiets <paul@colomiets.name>",
+        "Copyright © 2005-2013 Rich Felker",
+        "Copyright (c) 2016 Pyfisch"
       ]
     },
     {
@@ -362,8 +362,8 @@
       "package_url": "https://crates.io/crates/iana-time-zone-haiku/0.1.2",
       "license_id": "MIT OR Apache-2.0",
       "notices": [
-        "Authors: René Kijewski <crates.io@k6i.de>",
-        "Copyright (c) 2020 Andrew D. Straw"
+        "Copyright (c) 2020 Andrew D. Straw",
+        "Authors: René Kijewski <crates.io@k6i.de>"
       ]
     },
     {
@@ -387,8 +387,8 @@
       "package_url": "https://crates.io/crates/is-terminal/0.4.9",
       "license_id": "MIT",
       "notices": [
-        "Authors: softprops <d.tangren@gmail.com>, Dan Gohman <dev@sunfishcode.online>",
-        "Copyright (c) 2015-2019 Doug Tangren"
+        "Copyright (c) 2015-2019 Doug Tangren",
+        "Authors: softprops <d.tangren@gmail.com>, Dan Gohman <dev@sunfishcode.online>"
       ]
     },
     {
@@ -404,8 +404,8 @@
       "package_url": "https://crates.io/crates/js-sys/0.3.64",
       "license_id": "MIT/Apache-2.0",
       "notices": [
-        "Authors: The wasm-bindgen Developers",
-        "Copyright (c) 2014 Alex Crichton"
+        "Copyright (c) 2014 Alex Crichton",
+        "Authors: The wasm-bindgen Developers"
       ]
     },
     {
@@ -457,8 +457,8 @@
       "package_url": "https://crates.io/crates/memchr/2.6.3",
       "license_id": "Unlicense OR MIT",
       "notices": [
-        "Copyright (c) 2015 Andrew Gallant",
-        "Authors: Andrew Gallant <jamslam@gmail.com>, bluss"
+        "Authors: Andrew Gallant <jamslam@gmail.com>, bluss",
+        "Copyright (c) 2015 Andrew Gallant"
       ]
     },
     {
@@ -516,8 +516,8 @@
       "package_url": "https://crates.io/crates/regex-automata/0.3.8",
       "license_id": "MIT OR Apache-2.0",
       "notices": [
-        "Authors: The Rust Project Developers, Andrew Gallant <jamslam@gmail.com>",
-        "Copyright (c) 2014 The Rust Project Developers"
+        "Copyright (c) 2014 The Rust Project Developers",
+        "Authors: The Rust Project Developers, Andrew Gallant <jamslam@gmail.com>"
       ]
     },
     {
@@ -534,8 +534,8 @@
       "package_url": "https://crates.io/crates/reword/7.0.0",
       "license_id": "MIT OR Apache-2.0",
       "notices": [
-        "Copyright (c) 2020 Even Olsson Rogstadkjærnet <evenorog@gmail.com>",
-        "Authors: evenorog <evenorog@gmail.com>"
+        "Authors: evenorog <evenorog@gmail.com>",
+        "Copyright (c) 2020 Even Olsson Rogstadkjærnet <evenorog@gmail.com>"
       ]
     },
     {
@@ -633,8 +633,8 @@
       "package_url": "https://crates.io/crates/spdx/0.10.2",
       "license_id": "MIT OR Apache-2.0",
       "notices": [
-        "Copyright (c) 2019 Embark Studios",
-        "Authors: Embark <opensource@embark-studios.com>, Jake Shadle <jake.shadle@embark-studios.com>"
+        "Authors: Embark <opensource@embark-studios.com>, Jake Shadle <jake.shadle@embark-studios.com>",
+        "Copyright (c) 2019 Embark Studios"
       ]
     },
     {
@@ -644,8 +644,8 @@
       "notices": [
         "Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>",
         "Copyright (c) 2015 Danny Guo",
-        "Copyright (c) 2018 Akash Kurdekar",
-        "Authors: Danny Guo <danny@dannyguo.com>"
+        "Authors: Danny Guo <danny@dannyguo.com>",
+        "Copyright (c) 2018 Akash Kurdekar"
       ]
     },
     {
@@ -669,8 +669,8 @@
       "package_url": "https://crates.io/crates/termcolor/1.2.0",
       "license_id": "Unlicense OR MIT",
       "notices": [
-        "Authors: Andrew Gallant <jamslam@gmail.com>",
-        "Copyright (c) 2015 Andrew Gallant"
+        "Copyright (c) 2015 Andrew Gallant",
+        "Authors: Andrew Gallant <jamslam@gmail.com>"
       ]
     },
     {
@@ -703,8 +703,8 @@
       "package_url": "https://crates.io/crates/toml/0.7.6",
       "license_id": "MIT OR Apache-2.0",
       "notices": [
-        "Authors: Alex Crichton <alex@alexcrichton.com>",
-        "Copyright (c) 2014 Alex Crichton"
+        "Copyright (c) 2014 Alex Crichton",
+        "Authors: Alex Crichton <alex@alexcrichton.com>"
       ]
     },
     {
@@ -721,8 +721,8 @@
       "package_url": "https://crates.io/crates/toml_edit/0.19.14",
       "license_id": "MIT OR Apache-2.0",
       "notices": [
-        "Copyright (c) 2017 Andronik Ordian",
-        "Authors: Andronik Ordian <write@reusable.software>, Ed Page <eopage@gmail.com>"
+        "Authors: Andronik Ordian <write@reusable.software>, Ed Page <eopage@gmail.com>",
+        "Copyright (c) 2017 Andronik Ordian"
       ]
     },
     {
@@ -757,8 +757,8 @@
       "package_url": "https://crates.io/crates/utf8-width/0.1.6",
       "license_id": "MIT",
       "notices": [
-        "Copyright (c) 2020 magiclen.org (Ron Li)",
-        "Authors: Magic Len <len@magiclen.org>"
+        "Authors: Magic Len <len@magiclen.org>",
+        "Copyright (c) 2020 magiclen.org (Ron Li)"
       ]
     },
     {
@@ -783,8 +783,8 @@
       "package_url": "https://crates.io/crates/wasm-bindgen/0.2.87",
       "license_id": "MIT/Apache-2.0",
       "notices": [
-        "Copyright (c) 2014 Alex Crichton",
-        "Authors: The wasm-bindgen Developers"
+        "Authors: The wasm-bindgen Developers",
+        "Copyright (c) 2014 Alex Crichton"
       ]
     },
     {
@@ -828,8 +828,8 @@
       "package_url": "https://crates.io/crates/winapi/0.3.9",
       "license_id": "MIT/Apache-2.0",
       "notices": [
-        "Authors: Peter Atashian <retep998@gmail.com>",
-        "Copyright (c) 2015-2018 The winapi-rs Developers"
+        "Copyright (c) 2015-2018 The winapi-rs Developers",
+        "Authors: Peter Atashian <retep998@gmail.com>"
       ]
     },
     {
@@ -845,8 +845,8 @@
       "package_url": "https://crates.io/crates/winapi-util/0.1.5",
       "license_id": "Unlicense/MIT",
       "notices": [
-        "Authors: Andrew Gallant <jamslam@gmail.com>",
-        "Copyright (c) 2017 Andrew Gallant"
+        "Copyright (c) 2017 Andrew Gallant",
+        "Authors: Andrew Gallant <jamslam@gmail.com>"
       ]
     },
     {
@@ -862,8 +862,8 @@
       "package_url": "https://crates.io/crates/windows/0.48.0",
       "license_id": "MIT OR Apache-2.0",
       "notices": [
-        "Authors: Microsoft",
-        "Copyright (c) Microsoft Corporation."
+        "Copyright (c) Microsoft Corporation.",
+        "Authors: Microsoft"
       ]
     },
     {
@@ -889,8 +889,8 @@
       "package_url": "https://crates.io/crates/windows_aarch64_gnullvm/0.48.5",
       "license_id": "MIT OR Apache-2.0",
       "notices": [
-        "Copyright (c) Microsoft Corporation.",
-        "Authors: Microsoft"
+        "Authors: Microsoft",
+        "Copyright (c) Microsoft Corporation."
       ]
     },
     {
@@ -907,8 +907,8 @@
       "package_url": "https://crates.io/crates/windows_i686_gnu/0.48.5",
       "license_id": "MIT OR Apache-2.0",
       "notices": [
-        "Authors: Microsoft",
-        "Copyright (c) Microsoft Corporation."
+        "Copyright (c) Microsoft Corporation.",
+        "Authors: Microsoft"
       ]
     },
     {
@@ -925,8 +925,8 @@
       "package_url": "https://crates.io/crates/windows_x86_64_gnu/0.48.5",
       "license_id": "MIT OR Apache-2.0",
       "notices": [
-        "Copyright (c) Microsoft Corporation.",
-        "Authors: Microsoft"
+        "Authors: Microsoft",
+        "Copyright (c) Microsoft Corporation."
       ]
     },
     {
@@ -943,8 +943,8 @@
       "package_url": "https://crates.io/crates/windows_x86_64_msvc/0.48.5",
       "license_id": "MIT OR Apache-2.0",
       "notices": [
-        "Authors: Microsoft",
-        "Copyright (c) Microsoft Corporation."
+        "Copyright (c) Microsoft Corporation.",
+        "Authors: Microsoft"
       ]
     },
     {

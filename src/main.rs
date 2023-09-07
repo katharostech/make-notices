@@ -40,12 +40,35 @@ static CONFIG: Lazy<Config> = Lazy::new(|| {
 });
 
 #[derive(serde::Deserialize, Default, Debug)]
+#[serde(deny_unknown_fields)]
 struct Config {
     /// The licenses that are allowed
     #[serde(deserialize_with = "license_reqs")]
     allowed_licenses: Vec<LicenseReq>,
     #[serde(default)]
     ignore_packages: Vec<String>,
+    #[serde(default = "default_out_dir")]
+    out_dir: PathBuf,
+    #[serde(default = "default_filename")]
+    filename: String,
+    #[serde(default = "default_true")]
+    export_html: bool,
+    #[serde(default = "default_true")]
+    export_markdown: bool,
+    #[serde(default = "default_true")]
+    export_json: bool,
+}
+
+fn default_out_dir() -> PathBuf {
+    PathBuf::from(".")
+}
+
+fn default_filename() -> String {
+    String::from("3rd-party-notices")
+}
+
+fn default_true() -> bool {
+    true
 }
 
 fn license_reqs<'de, D: serde::Deserializer<'de>>(d: D) -> Result<Vec<LicenseReq>, D::Error> {
@@ -182,19 +205,28 @@ fn start() -> anyhow::Result<()> {
     pnpm::collect_notices(&mut notices).context("Collecting pnpm notices failed")?;
 
     // Create an HTML report
-    {
+    if CONFIG.export_html {
         let notices_html = generate::html(&notices);
-        std::fs::write("3rd-party-notices.html", notices_html.as_bytes())?;
+        std::fs::write(
+            CONFIG.out_dir.join(format!("{}.html", CONFIG.filename)),
+            notices_html.as_bytes(),
+        )?;
     }
     // Create a JSON report
-    {
+    if CONFIG.export_json {
         let notices_json = generate::json(&notices);
-        std::fs::write("3rd-party-notices.json", notices_json.as_bytes())?;
+        std::fs::write(
+            CONFIG.out_dir.join(format!("{}.json", CONFIG.filename)),
+            notices_json.as_bytes(),
+        )?;
     }
     // Create a Markdown report
-    {
+    if CONFIG.export_markdown {
         let notices_markdown = generate::markdown(&notices);
-        std::fs::write("3rd-party-notices.md", notices_markdown.as_bytes())?;
+        std::fs::write(
+            CONFIG.out_dir.join(format!("{}.md", CONFIG.filename)),
+            notices_markdown.as_bytes(),
+        )?;
     }
 
     Ok(())
@@ -504,9 +536,12 @@ mod generate {
             notices,
         } in deps
         {
-            let notices_escaped = html_escape::encode_text(
-                &notices.clone().into_iter().collect::<Vec<_>>().join("\n"),
-            )
+            let notices_escaped = html_escape::encode_text(&{
+                let mut entries = notices.clone().into_iter().collect::<Vec<_>>();
+                entries.sort();
+
+                entries.join("\n")
+            })
             .replace('\n', "<br />");
             writeln!(out, "<tr>").ok();
             writeln!(
