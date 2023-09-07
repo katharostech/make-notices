@@ -1,0 +1,6 @@
+allowed_licenses = [
+    "Apache-2.0",
+    "MIT",
+    "BSD-2-Clause",
+    "Unicode-DFS-2016",
+]
