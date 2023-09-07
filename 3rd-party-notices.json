@@ -4,667 +4,954 @@
       "name": "Inflector",
       "package_url": "https://crates.io/crates/Inflector/0.11.4",
       "license_id": "BSD-2-Clause",
-      "notices": "Authors: Josh Teeter<joshteeter@gmail.com>\n"
+      "notices": [
+        "Authors: Josh Teeter<joshteeter@gmail.com>"
+      ]
     },
     {
       "name": "aho-corasick",
       "package_url": "https://crates.io/crates/aho-corasick/1.0.5",
       "license_id": "Unlicense OR MIT",
-      "notices": "Authors: Andrew Gallant <jamslam@gmail.com>\nCopyright (c) 2015 Andrew Gallant\n"
+      "notices": [
+        "Authors: Andrew Gallant <jamslam@gmail.com>",
+        "Copyright (c) 2015 Andrew Gallant"
+      ]
     },
     {
       "name": "android-tzdata",
       "package_url": "https://crates.io/crates/android-tzdata/0.1.1",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: RumovZ\n"
+      "notices": [
+        "Authors: RumovZ"
+      ]
     },
     {
       "name": "android_system_properties",
       "package_url": "https://crates.io/crates/android_system_properties/0.1.5",
       "license_id": "MIT/Apache-2.0",
-      "notices": "Authors: Nicolas Silva <nical@fastmail.com>\nCopyright (c) 2013 Nicolas Silva\n"
+      "notices": [
+        "Copyright (c) 2013 Nicolas Silva",
+        "Authors: Nicolas Silva <nical@fastmail.com>"
+      ]
     },
     {
       "name": "anstream",
       "package_url": "https://crates.io/crates/anstream/0.5.0",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Copyright (c) Individual contributors\n"
+      "notices": [
+        "Copyright (c) Individual contributors"
+      ]
     },
     {
       "name": "anstyle",
       "package_url": "https://crates.io/crates/anstyle/1.0.2",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Copyright (c) 2022 The rust-cli Developers\n"
+      "notices": [
+        "Copyright (c) 2022 The rust-cli Developers"
+      ]
     },
     {
       "name": "anstyle-parse",
       "package_url": "https://crates.io/crates/anstyle-parse/0.2.1",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Copyright (c) 2016 Joe Wilm and individual contributors\n"
+      "notices": [
+        "Copyright (c) 2016 Joe Wilm and individual contributors"
+      ]
     },
     {
       "name": "anstyle-query",
       "package_url": "https://crates.io/crates/anstyle-query/1.0.0",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Copyright (c) Individual contributors\n"
+      "notices": [
+        "Copyright (c) Individual contributors"
+      ]
     },
     {
       "name": "anstyle-wincon",
       "package_url": "https://crates.io/crates/anstyle-wincon/2.1.0",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Copyright (c) 2015 Josh Triplett, 2022 The rust-cli Developers\n"
+      "notices": [
+        "Copyright (c) 2015 Josh Triplett, 2022 The rust-cli Developers"
+      ]
     },
     {
       "name": "anyhow",
       "package_url": "https://crates.io/crates/anyhow/1.0.75",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: David Tolnay <dtolnay@gmail.com>\n"
+      "notices": [
+        "Authors: David Tolnay <dtolnay@gmail.com>"
+      ]
     },
     {
       "name": "autocfg",
       "package_url": "https://crates.io/crates/autocfg/1.1.0",
       "license_id": "Apache-2.0 OR MIT",
-      "notices": "Authors: Josh Stone <cuviper@gmail.com>\nCopyright (c) 2018 Josh Stone\n"
+      "notices": [
+        "Authors: Josh Stone <cuviper@gmail.com>",
+        "Copyright (c) 2018 Josh Stone"
+      ]
     },
     {
       "name": "bitflags",
       "package_url": "https://crates.io/crates/bitflags/2.4.0",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: The Rust Project Developers\nCopyright (c) 2014 The Rust Project Developers\n"
+      "notices": [
+        "Authors: The Rust Project Developers",
+        "Copyright (c) 2014 The Rust Project Developers"
+      ]
     },
     {
       "name": "bumpalo",
       "package_url": "https://crates.io/crates/bumpalo/3.13.0",
       "license_id": "MIT/Apache-2.0",
-      "notices": "Authors: Nick Fitzgerald <fitzgen@gmail.com>\nCopyright (c) 2019 Nick Fitzgerald\n"
+      "notices": [
+        "Authors: Nick Fitzgerald <fitzgen@gmail.com>",
+        "Copyright (c) 2019 Nick Fitzgerald"
+      ]
     },
     {
       "name": "camino",
       "package_url": "https://crates.io/crates/camino/1.1.6",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Without Boats <saoirse@without.boats>, Ashley Williams <ashley666ashley@gmail.com>, Steve Klabnik <steve@steveklabnik.com>, Rain <rain@sunshowers.io>\n"
+      "notices": [
+        "Authors: Without Boats <saoirse@without.boats>, Ashley Williams <ashley666ashley@gmail.com>, Steve Klabnik <steve@steveklabnik.com>, Rain <rain@sunshowers.io>"
+      ]
     },
     {
       "name": "cargo-platform",
       "package_url": "https://crates.io/crates/cargo-platform/0.1.3",
       "license_id": "MIT OR Apache-2.0",
-      "notices": ""
+      "notices": []
     },
     {
       "name": "cargo_metadata",
       "package_url": "https://crates.io/crates/cargo_metadata/0.17.0",
       "license_id": "MIT",
-      "notices": "Authors: Oliver Schneider <git-spam-no-reply9815368754983@oli-obk.de>\n"
+      "notices": [
+        "Authors: Oliver Schneider <git-spam-no-reply9815368754983@oli-obk.de>"
+      ]
     },
     {
       "name": "cc",
       "package_url": "https://crates.io/crates/cc/1.0.83",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Alex Crichton <alex@alexcrichton.com>\nCopyright (c) 2014 Alex Crichton\n"
+      "notices": [
+        "Authors: Alex Crichton <alex@alexcrichton.com>",
+        "Copyright (c) 2014 Alex Crichton"
+      ]
     },
     {
       "name": "cfg-if",
       "package_url": "https://crates.io/crates/cfg-if/1.0.0",
       "license_id": "MIT/Apache-2.0",
-      "notices": "Authors: Alex Crichton <alex@alexcrichton.com>\nCopyright (c) 2014 Alex Crichton\n"
+      "notices": [
+        "Authors: Alex Crichton <alex@alexcrichton.com>",
+        "Copyright (c) 2014 Alex Crichton"
+      ]
     },
     {
       "name": "chrono",
       "package_url": "https://crates.io/crates/chrono/0.4.28",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Copyright (c) 2014--2017, Kang Seonghoon and\nCopyright (c) 2014, Kang Seonghoon.\n"
+      "notices": [
+        "Copyright (c) 2014--2017, Kang Seonghoon and",
+        "Copyright (c) 2014, Kang Seonghoon."
+      ]
     },
     {
       "name": "clap",
       "package_url": "https://crates.io/crates/clap/4.4.2",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Copyright (c) Individual contributors\n"
+      "notices": [
+        "Copyright (c) Individual contributors"
+      ]
     },
     {
       "name": "clap_builder",
       "package_url": "https://crates.io/crates/clap_builder/4.4.2",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Copyright (c) 2015-2022 Kevin B. Knapp and Clap Contributors\n"
+      "notices": [
+        "Copyright (c) 2015-2022 Kevin B. Knapp and Clap Contributors"
+      ]
     },
     {
       "name": "clap_derive",
       "package_url": "https://crates.io/crates/clap_derive/4.4.2",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Copyright (c) 2015-2022 Kevin B. Knapp and Clap Contributors\n"
+      "notices": [
+        "Copyright (c) 2015-2022 Kevin B. Knapp and Clap Contributors"
+      ]
     },
     {
       "name": "clap_lex",
       "package_url": "https://crates.io/crates/clap_lex/0.5.1",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Copyright (c) 2015-2022 Kevin B. Knapp and Clap Contributors\n"
+      "notices": [
+        "Copyright (c) 2015-2022 Kevin B. Knapp and Clap Contributors"
+      ]
     },
     {
       "name": "colorchoice",
       "package_url": "https://crates.io/crates/colorchoice/1.0.0",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Copyright (c) Individual contributors\n"
+      "notices": [
+        "Copyright (c) Individual contributors"
+      ]
     },
     {
       "name": "core-foundation-sys",
       "package_url": "https://crates.io/crates/core-foundation-sys/0.8.4",
       "license_id": "MIT / Apache-2.0",
-      "notices": "Authors: The Servo Project Developers\nCopyright (c) 2012-2013 Mozilla Foundation\n"
+      "notices": [
+        "Authors: The Servo Project Developers",
+        "Copyright (c) 2012-2013 Mozilla Foundation"
+      ]
     },
     {
       "name": "darling",
       "package_url": "https://crates.io/crates/darling/0.14.4",
       "license_id": "MIT",
-      "notices": "Authors: Ted Driggs <ted.driggs@outlook.com>\nCopyright (c) 2017 Ted Driggs\n"
+      "notices": [
+        "Copyright (c) 2017 Ted Driggs",
+        "Authors: Ted Driggs <ted.driggs@outlook.com>"
+      ]
     },
     {
       "name": "darling_core",
       "package_url": "https://crates.io/crates/darling_core/0.14.4",
       "license_id": "MIT",
-      "notices": "Authors: Ted Driggs <ted.driggs@outlook.com>\nCopyright (c) 2017 Ted Driggs\n"
+      "notices": [
+        "Authors: Ted Driggs <ted.driggs@outlook.com>",
+        "Copyright (c) 2017 Ted Driggs"
+      ]
     },
     {
       "name": "darling_macro",
       "package_url": "https://crates.io/crates/darling_macro/0.14.4",
       "license_id": "MIT",
-      "notices": "Authors: Ted Driggs <ted.driggs@outlook.com>\nCopyright (c) 2017 Ted Driggs\n"
+      "notices": [
+        "Copyright (c) 2017 Ted Driggs",
+        "Authors: Ted Driggs <ted.driggs@outlook.com>"
+      ]
     },
     {
       "name": "derive_builder",
       "package_url": "https://crates.io/crates/derive_builder/0.12.0",
       "license_id": "MIT/Apache-2.0",
-      "notices": "Authors: Colin Kiegel <kiegel@gmx.de>, Pascal Hertleif <killercup@gmail.com>, Jan-Erik Rediger <janerik@fnordig.de>, Ted Driggs <ted.driggs@outlook.com>\nCopyright (c) 2016 rust-derive-builder contributors\n"
+      "notices": [
+        "Copyright (c) 2016 rust-derive-builder contributors",
+        "Authors: Colin Kiegel <kiegel@gmx.de>, Pascal Hertleif <killercup@gmail.com>, Jan-Erik Rediger <janerik@fnordig.de>, Ted Driggs <ted.driggs@outlook.com>"
+      ]
     },
     {
       "name": "derive_builder_core",
       "package_url": "https://crates.io/crates/derive_builder_core/0.12.0",
       "license_id": "MIT/Apache-2.0",
-      "notices": "Authors: Colin Kiegel <kiegel@gmx.de>, Pascal Hertleif <killercup@gmail.com>, Jan-Erik Rediger <janerik@fnordig.de>, Ted Driggs <ted.driggs@outlook.com>\nCopyright (c) 2016 rust-derive-builder contributors\n"
+      "notices": [
+        "Copyright (c) 2016 rust-derive-builder contributors",
+        "Authors: Colin Kiegel <kiegel@gmx.de>, Pascal Hertleif <killercup@gmail.com>, Jan-Erik Rediger <janerik@fnordig.de>, Ted Driggs <ted.driggs@outlook.com>"
+      ]
     },
     {
       "name": "derive_builder_macro",
       "package_url": "https://crates.io/crates/derive_builder_macro/0.12.0",
       "license_id": "MIT/Apache-2.0",
-      "notices": "Authors: Colin Kiegel <kiegel@gmx.de>, Pascal Hertleif <killercup@gmail.com>, Jan-Erik Rediger <janerik@fnordig.de>, Ted Driggs <ted.driggs@outlook.com>\nCopyright (c) 2016 rust-derive-builder contributors\n"
+      "notices": [
+        "Copyright (c) 2016 rust-derive-builder contributors",
+        "Authors: Colin Kiegel <kiegel@gmx.de>, Pascal Hertleif <killercup@gmail.com>, Jan-Erik Rediger <janerik@fnordig.de>, Ted Driggs <ted.driggs@outlook.com>"
+      ]
     },
     {
       "name": "env_logger",
       "package_url": "https://crates.io/crates/env_logger/0.10.0",
       "license_id": "MIT OR Apache-2.0",
-      "notices": ""
+      "notices": []
     },
     {
       "name": "equivalent",
       "package_url": "https://crates.io/crates/equivalent/1.0.1",
       "license_id": "Apache-2.0 OR MIT",
-      "notices": "Copyright (c) 2016--2023\n"
+      "notices": [
+        "Copyright (c) 2016--2023"
+      ]
     },
     {
       "name": "errno",
       "package_url": "https://crates.io/crates/errno/0.3.3",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Chris Wong <lambda.fairy@gmail.com>\nCopyright (c) 2014 Chris Wong\n"
+      "notices": [
+        "Authors: Chris Wong <lambda.fairy@gmail.com>",
+        "Copyright (c) 2014 Chris Wong"
+      ]
     },
     {
       "name": "errno-dragonfly",
       "package_url": "https://crates.io/crates/errno-dragonfly/0.1.2",
       "license_id": "MIT",
-      "notices": "Authors: Michael Neumann <mneumann@ntecs.de>\nCopyright (c) 2017 Michael Neumann\n"
+      "notices": [
+        "Authors: Michael Neumann <mneumann@ntecs.de>",
+        "Copyright (c) 2017 Michael Neumann"
+      ]
     },
     {
       "name": "fnv",
       "package_url": "https://crates.io/crates/fnv/1.0.7",
       "license_id": "Apache-2.0 / MIT",
-      "notices": "Authors: Alex Crichton <alex@alexcrichton.com>\nCopyright (c) 2017 Contributors\n"
+      "notices": [
+        "Copyright (c) 2017 Contributors",
+        "Authors: Alex Crichton <alex@alexcrichton.com>"
+      ]
     },
     {
       "name": "hashbrown",
       "package_url": "https://crates.io/crates/hashbrown/0.14.0",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Amanieu d'Antras <amanieu@gmail.com>\nCopyright (c) 2016 Amanieu d'Antras\n"
+      "notices": [
+        "Copyright (c) 2016 Amanieu d'Antras",
+        "Authors: Amanieu d'Antras <amanieu@gmail.com>"
+      ]
     },
     {
       "name": "heck",
       "package_url": "https://crates.io/crates/heck/0.4.1",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Without Boats <woboats@gmail.com>\nCopyright (c) 2015 The Rust Project Developers\n"
+      "notices": [
+        "Authors: Without Boats <woboats@gmail.com>",
+        "Copyright (c) 2015 The Rust Project Developers"
+      ]
     },
     {
       "name": "hermit-abi",
       "package_url": "https://crates.io/crates/hermit-abi/0.3.2",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Stefan Lankes\n"
+      "notices": [
+        "Authors: Stefan Lankes"
+      ]
     },
     {
       "name": "html-escape",
       "package_url": "https://crates.io/crates/html-escape/0.2.13",
       "license_id": "MIT",
-      "notices": "Authors: Magic Len <len@magiclen.org>\nCopyright (c) 2020 magiclen.org (Ron Li)\n"
+      "notices": [
+        "Copyright (c) 2020 magiclen.org (Ron Li)",
+        "Authors: Magic Len <len@magiclen.org>"
+      ]
     },
     {
       "name": "humantime",
       "package_url": "https://crates.io/crates/humantime/2.1.0",
       "license_id": "MIT/Apache-2.0",
-      "notices": "Authors: Paul Colomiets <paul@colomiets.name>\nCopyright (c) 2016 The humantime Developers\nCopyright (c) 2016 Pyfisch\nCopyright © 2005-2013 Rich Felker\n"
+      "notices": [
+        "Copyright © 2005-2013 Rich Felker",
+        "Copyright (c) 2016 The humantime Developers",
+        "Copyright (c) 2016 Pyfisch",
+        "Authors: Paul Colomiets <paul@colomiets.name>"
+      ]
     },
     {
       "name": "iana-time-zone",
       "package_url": "https://crates.io/crates/iana-time-zone/0.1.57",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Andrew Straw <strawman@astraw.com>, René Kijewski <rene.kijewski@fu-berlin.de>, Ryan Lopopolo <rjl@hyperbo.la>\nCopyright (c) 2020 Andrew D. Straw\n"
+      "notices": [
+        "Authors: Andrew Straw <strawman@astraw.com>, René Kijewski <rene.kijewski@fu-berlin.de>, Ryan Lopopolo <rjl@hyperbo.la>",
+        "Copyright (c) 2020 Andrew D. Straw"
+      ]
     },
     {
       "name": "iana-time-zone-haiku",
       "package_url": "https://crates.io/crates/iana-time-zone-haiku/0.1.2",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: René Kijewski <crates.io@k6i.de>\nCopyright (c) 2020 Andrew D. Straw\n"
+      "notices": [
+        "Authors: René Kijewski <crates.io@k6i.de>",
+        "Copyright (c) 2020 Andrew D. Straw"
+      ]
     },
     {
       "name": "ident_case",
       "package_url": "https://crates.io/crates/ident_case/1.0.1",
       "license_id": "MIT/Apache-2.0",
-      "notices": "Authors: Ted Driggs <ted.driggs@outlook.com>\n"
+      "notices": [
+        "Authors: Ted Driggs <ted.driggs@outlook.com>"
+      ]
     },
     {
       "name": "indexmap",
       "package_url": "https://crates.io/crates/indexmap/2.0.0",
       "license_id": "Apache-2.0 OR MIT",
-      "notices": "Copyright (c) 2016--2017\n"
+      "notices": [
+        "Copyright (c) 2016--2017"
+      ]
     },
     {
       "name": "is-terminal",
       "package_url": "https://crates.io/crates/is-terminal/0.4.9",
       "license_id": "MIT",
-      "notices": "Authors: softprops <d.tangren@gmail.com>, Dan Gohman <dev@sunfishcode.online>\nCopyright (c) 2015-2019 Doug Tangren\n"
+      "notices": [
+        "Authors: softprops <d.tangren@gmail.com>, Dan Gohman <dev@sunfishcode.online>",
+        "Copyright (c) 2015-2019 Doug Tangren"
+      ]
     },
     {
       "name": "itoa",
       "package_url": "https://crates.io/crates/itoa/1.0.9",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: David Tolnay <dtolnay@gmail.com>\n"
+      "notices": [
+        "Authors: David Tolnay <dtolnay@gmail.com>"
+      ]
     },
     {
       "name": "js-sys",
       "package_url": "https://crates.io/crates/js-sys/0.3.64",
       "license_id": "MIT/Apache-2.0",
-      "notices": "Authors: The wasm-bindgen Developers\nCopyright (c) 2014 Alex Crichton\n"
+      "notices": [
+        "Authors: The wasm-bindgen Developers",
+        "Copyright (c) 2014 Alex Crichton"
+      ]
     },
     {
       "name": "lazy_static",
       "package_url": "https://crates.io/crates/lazy_static/1.4.0",
       "license_id": "MIT/Apache-2.0",
-      "notices": "Authors: Marvin Löbel <loebel.marvin@gmail.com>\nCopyright (c) 2010 The Rust Project Developers\n"
+      "notices": [
+        "Authors: Marvin Löbel <loebel.marvin@gmail.com>",
+        "Copyright (c) 2010 The Rust Project Developers"
+      ]
     },
     {
       "name": "libc",
       "package_url": "https://crates.io/crates/libc/0.2.147",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: The Rust Project Developers\nCopyright (c) 2014-2020 The Rust Project Developers\n"
+      "notices": [
+        "Authors: The Rust Project Developers",
+        "Copyright (c) 2014-2020 The Rust Project Developers"
+      ]
     },
     {
       "name": "license",
       "package_url": "https://crates.io/crates/license/3.1.1",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: evenorog <evenorog@gmail.com>\nCopyright (c) 2017 Even Olsson Rogstadkjærnet <evenorog@gmail.com>\n"
+      "notices": [
+        "Authors: evenorog <evenorog@gmail.com>",
+        "Copyright (c) 2017 Even Olsson Rogstadkjærnet <evenorog@gmail.com>"
+      ]
     },
     {
       "name": "linux-raw-sys",
       "package_url": "https://crates.io/crates/linux-raw-sys/0.4.5",
       "license_id": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
-      "notices": "Authors: Dan Gohman <dev@sunfishcode.online>\n"
+      "notices": [
+        "Authors: Dan Gohman <dev@sunfishcode.online>"
+      ]
     },
     {
       "name": "log",
       "package_url": "https://crates.io/crates/log/0.4.20",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: The Rust Project Developers\nCopyright (c) 2014 The Rust Project Developers\n"
+      "notices": [
+        "Authors: The Rust Project Developers",
+        "Copyright (c) 2014 The Rust Project Developers"
+      ]
     },
     {
       "name": "memchr",
       "package_url": "https://crates.io/crates/memchr/2.6.3",
       "license_id": "Unlicense OR MIT",
-      "notices": "Authors: Andrew Gallant <jamslam@gmail.com>, bluss\nCopyright (c) 2015 Andrew Gallant\n"
+      "notices": [
+        "Copyright (c) 2015 Andrew Gallant",
+        "Authors: Andrew Gallant <jamslam@gmail.com>, bluss"
+      ]
     },
     {
       "name": "num-traits",
       "package_url": "https://crates.io/crates/num-traits/0.2.16",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: The Rust Project Developers\nCopyright (c) 2014 The Rust Project Developers\n"
+      "notices": [
+        "Authors: The Rust Project Developers",
+        "Copyright (c) 2014 The Rust Project Developers"
+      ]
     },
     {
       "name": "once_cell",
       "package_url": "https://crates.io/crates/once_cell/1.18.0",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Aleksey Kladov <aleksey.kladov@gmail.com>\n"
+      "notices": [
+        "Authors: Aleksey Kladov <aleksey.kladov@gmail.com>"
+      ]
     },
     {
       "name": "prettyplease",
       "package_url": "https://crates.io/crates/prettyplease/0.1.25",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: David Tolnay <dtolnay@gmail.com>\n"
+      "notices": [
+        "Authors: David Tolnay <dtolnay@gmail.com>"
+      ]
     },
     {
       "name": "proc-macro2",
       "package_url": "https://crates.io/crates/proc-macro2/1.0.66",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: David Tolnay <dtolnay@gmail.com>, Alex Crichton <alex@alexcrichton.com>\n"
+      "notices": [
+        "Authors: David Tolnay <dtolnay@gmail.com>, Alex Crichton <alex@alexcrichton.com>"
+      ]
     },
     {
       "name": "quote",
       "package_url": "https://crates.io/crates/quote/1.0.33",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: David Tolnay <dtolnay@gmail.com>\n"
+      "notices": [
+        "Authors: David Tolnay <dtolnay@gmail.com>"
+      ]
     },
     {
       "name": "regex",
       "package_url": "https://crates.io/crates/regex/1.9.5",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: The Rust Project Developers, Andrew Gallant <jamslam@gmail.com>\nCopyright (c) 2014 The Rust Project Developers\n"
+      "notices": [
+        "Authors: The Rust Project Developers, Andrew Gallant <jamslam@gmail.com>",
+        "Copyright (c) 2014 The Rust Project Developers"
+      ]
     },
     {
       "name": "regex-automata",
       "package_url": "https://crates.io/crates/regex-automata/0.3.8",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: The Rust Project Developers, Andrew Gallant <jamslam@gmail.com>\nCopyright (c) 2014 The Rust Project Developers\n"
+      "notices": [
+        "Authors: The Rust Project Developers, Andrew Gallant <jamslam@gmail.com>",
+        "Copyright (c) 2014 The Rust Project Developers"
+      ]
     },
     {
       "name": "regex-syntax",
       "package_url": "https://crates.io/crates/regex-syntax/0.7.5",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: The Rust Project Developers, Andrew Gallant <jamslam@gmail.com>\nCopyright (c) 2014 The Rust Project Developers\n"
+      "notices": [
+        "Authors: The Rust Project Developers, Andrew Gallant <jamslam@gmail.com>",
+        "Copyright (c) 2014 The Rust Project Developers"
+      ]
     },
     {
       "name": "reword",
       "package_url": "https://crates.io/crates/reword/7.0.0",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: evenorog <evenorog@gmail.com>\nCopyright (c) 2020 Even Olsson Rogstadkjærnet <evenorog@gmail.com>\n"
+      "notices": [
+        "Copyright (c) 2020 Even Olsson Rogstadkjærnet <evenorog@gmail.com>",
+        "Authors: evenorog <evenorog@gmail.com>"
+      ]
     },
     {
       "name": "rustix",
       "package_url": "https://crates.io/crates/rustix/0.38.11",
       "license_id": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
-      "notices": "Authors: Dan Gohman <dev@sunfishcode.online>, Jakub Konka <kubkon@jakubkonka.com>\n"
+      "notices": [
+        "Authors: Dan Gohman <dev@sunfishcode.online>, Jakub Konka <kubkon@jakubkonka.com>"
+      ]
     },
     {
       "name": "ryu",
       "package_url": "https://crates.io/crates/ryu/1.0.15",
       "license_id": "Apache-2.0 OR BSL-1.0",
-      "notices": "Authors: David Tolnay <dtolnay@gmail.com>\n"
+      "notices": [
+        "Authors: David Tolnay <dtolnay@gmail.com>"
+      ]
     },
     {
       "name": "schemafy_core",
       "package_url": "https://crates.io/crates/schemafy_core/0.6.0",
       "license_id": "MIT",
-      "notices": "Authors: Markus Westerlind <marwes91@gmail.com>\n"
+      "notices": [
+        "Authors: Markus Westerlind <marwes91@gmail.com>"
+      ]
     },
     {
       "name": "schemafy_lib",
       "package_url": "https://crates.io/crates/schemafy_lib/0.6.0",
       "license_id": "MIT",
-      "notices": "Authors: Markus Westerlind <marwes91@gmail.com>, MATILLAT Quentin <qmatillat@gmail.com>\n"
+      "notices": [
+        "Authors: Markus Westerlind <marwes91@gmail.com>, MATILLAT Quentin <qmatillat@gmail.com>"
+      ]
     },
     {
       "name": "semver",
       "package_url": "https://crates.io/crates/semver/1.0.18",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: David Tolnay <dtolnay@gmail.com>\n"
+      "notices": [
+        "Authors: David Tolnay <dtolnay@gmail.com>"
+      ]
     },
     {
       "name": "serde",
       "package_url": "https://crates.io/crates/serde/1.0.188",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Erick Tryzelaar <erick.tryzelaar@gmail.com>, David Tolnay <dtolnay@gmail.com>\n"
+      "notices": [
+        "Authors: Erick Tryzelaar <erick.tryzelaar@gmail.com>, David Tolnay <dtolnay@gmail.com>"
+      ]
     },
     {
       "name": "serde-spdx",
       "package_url": "https://crates.io/crates/serde-spdx/0.8.4",
       "license_id": "MIT",
-      "notices": "Authors: Paul Sastrasinh <psastras@gmail.com>\nCopyright (c) 2023 Paul Sastrasinh\n"
+      "notices": [
+        "Copyright (c) 2023 Paul Sastrasinh",
+        "Authors: Paul Sastrasinh <psastras@gmail.com>"
+      ]
     },
     {
       "name": "serde_derive",
       "package_url": "https://crates.io/crates/serde_derive/1.0.188",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Erick Tryzelaar <erick.tryzelaar@gmail.com>, David Tolnay <dtolnay@gmail.com>\n"
+      "notices": [
+        "Authors: Erick Tryzelaar <erick.tryzelaar@gmail.com>, David Tolnay <dtolnay@gmail.com>"
+      ]
     },
     {
       "name": "serde_json",
       "package_url": "https://crates.io/crates/serde_json/1.0.105",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Erick Tryzelaar <erick.tryzelaar@gmail.com>, David Tolnay <dtolnay@gmail.com>\n"
+      "notices": [
+        "Authors: Erick Tryzelaar <erick.tryzelaar@gmail.com>, David Tolnay <dtolnay@gmail.com>"
+      ]
     },
     {
       "name": "serde_spanned",
       "package_url": "https://crates.io/crates/serde_spanned/0.6.3",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Copyright (c) 2014 Alex Crichton\n"
+      "notices": [
+        "Copyright (c) 2014 Alex Crichton"
+      ]
     },
     {
       "name": "smallvec",
       "package_url": "https://crates.io/crates/smallvec/1.11.0",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: The Servo Project Developers\nCopyright (c) 2018 The Servo Project Developers\n"
+      "notices": [
+        "Copyright (c) 2018 The Servo Project Developers",
+        "Authors: The Servo Project Developers"
+      ]
     },
     {
       "name": "spdx",
       "package_url": "https://crates.io/crates/spdx/0.10.2",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Embark <opensource@embark-studios.com>, Jake Shadle <jake.shadle@embark-studios.com>\nCopyright (c) 2019 Embark Studios\n"
+      "notices": [
+        "Copyright (c) 2019 Embark Studios",
+        "Authors: Embark <opensource@embark-studios.com>, Jake Shadle <jake.shadle@embark-studios.com>"
+      ]
     },
     {
       "name": "strsim",
       "package_url": "https://crates.io/crates/strsim/0.10.0",
       "license_id": "MIT",
-      "notices": "Authors: Danny Guo <danny@dannyguo.com>\nCopyright (c) 2015 Danny Guo\nCopyright (c) 2016 Titus Wormer <tituswormer@gmail.com>\nCopyright (c) 2018 Akash Kurdekar\n"
+      "notices": [
+        "Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>",
+        "Copyright (c) 2015 Danny Guo",
+        "Copyright (c) 2018 Akash Kurdekar",
+        "Authors: Danny Guo <danny@dannyguo.com>"
+      ]
     },
     {
       "name": "syn",
       "package_url": "https://crates.io/crates/syn/1.0.109",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: David Tolnay <dtolnay@gmail.com>\n"
+      "notices": [
+        "Authors: David Tolnay <dtolnay@gmail.com>"
+      ]
     },
     {
       "name": "syn",
       "package_url": "https://crates.io/crates/syn/2.0.31",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: David Tolnay <dtolnay@gmail.com>\n"
+      "notices": [
+        "Authors: David Tolnay <dtolnay@gmail.com>"
+      ]
     },
     {
       "name": "termcolor",
       "package_url": "https://crates.io/crates/termcolor/1.2.0",
       "license_id": "Unlicense OR MIT",
-      "notices": "Authors: Andrew Gallant <jamslam@gmail.com>\nCopyright (c) 2015 Andrew Gallant\n"
+      "notices": [
+        "Authors: Andrew Gallant <jamslam@gmail.com>",
+        "Copyright (c) 2015 Andrew Gallant"
+      ]
     },
     {
       "name": "thiserror",
       "package_url": "https://crates.io/crates/thiserror/1.0.48",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: David Tolnay <dtolnay@gmail.com>\n"
+      "notices": [
+        "Authors: David Tolnay <dtolnay@gmail.com>"
+      ]
     },
     {
       "name": "thiserror-impl",
       "package_url": "https://crates.io/crates/thiserror-impl/1.0.48",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: David Tolnay <dtolnay@gmail.com>\n"
+      "notices": [
+        "Authors: David Tolnay <dtolnay@gmail.com>"
+      ]
     },
     {
       "name": "time",
       "package_url": "https://crates.io/crates/time/0.1.45",
       "license_id": "MIT/Apache-2.0",
-      "notices": "Authors: The Rust Project Developers\nCopyright (c) 2014 The Rust Project Developers\n"
+      "notices": [
+        "Copyright (c) 2014 The Rust Project Developers",
+        "Authors: The Rust Project Developers"
+      ]
     },
     {
       "name": "toml",
       "package_url": "https://crates.io/crates/toml/0.7.6",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Alex Crichton <alex@alexcrichton.com>\nCopyright (c) 2014 Alex Crichton\n"
+      "notices": [
+        "Authors: Alex Crichton <alex@alexcrichton.com>",
+        "Copyright (c) 2014 Alex Crichton"
+      ]
     },
     {
       "name": "toml_datetime",
       "package_url": "https://crates.io/crates/toml_datetime/0.6.3",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Alex Crichton <alex@alexcrichton.com>\nCopyright (c) 2014 Alex Crichton\n"
+      "notices": [
+        "Authors: Alex Crichton <alex@alexcrichton.com>",
+        "Copyright (c) 2014 Alex Crichton"
+      ]
     },
     {
       "name": "toml_edit",
       "package_url": "https://crates.io/crates/toml_edit/0.19.14",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Andronik Ordian <write@reusable.software>, Ed Page <eopage@gmail.com>\nCopyright (c) 2017 Andronik Ordian\n"
+      "notices": [
+        "Copyright (c) 2017 Andronik Ordian",
+        "Authors: Andronik Ordian <write@reusable.software>, Ed Page <eopage@gmail.com>"
+      ]
     },
     {
       "name": "unicode-ident",
       "package_url": "https://crates.io/crates/unicode-ident/1.0.11",
       "license_id": "(MIT OR Apache-2.0) AND Unicode-DFS-2016",
-      "notices": "Authors: David Tolnay <dtolnay@gmail.com>\nCopyright © 1991-2022 Unicode, Inc. All rights reserved.\n"
+      "notices": [
+        "Authors: David Tolnay <dtolnay@gmail.com>",
+        "Copyright © 1991-2022 Unicode, Inc. All rights reserved."
+      ]
     },
     {
       "name": "unicode-segmentation",
       "package_url": "https://crates.io/crates/unicode-segmentation/1.10.1",
       "license_id": "MIT/Apache-2.0",
-      "notices": "Authors: kwantam <kwantam@gmail.com>, Manish Goregaokar <manishsmail@gmail.com>\nCopyright (c) 2015 The Rust Project Developers\n"
+      "notices": [
+        "Authors: kwantam <kwantam@gmail.com>, Manish Goregaokar <manishsmail@gmail.com>",
+        "Copyright (c) 2015 The Rust Project Developers"
+      ]
     },
     {
       "name": "uriparse",
       "package_url": "https://crates.io/crates/uriparse/0.6.4",
       "license_id": "MIT",
-      "notices": "Authors: Scott Godwin <sgodwincs@gmail.com>\nCopyright (c) 2017 sgodwincs\r\n"
+      "notices": [
+        "Authors: Scott Godwin <sgodwincs@gmail.com>",
+        "Copyright (c) 2017 sgodwincs\r"
+      ]
     },
     {
       "name": "utf8-width",
       "package_url": "https://crates.io/crates/utf8-width/0.1.6",
       "license_id": "MIT",
-      "notices": "Authors: Magic Len <len@magiclen.org>\nCopyright (c) 2020 magiclen.org (Ron Li)\n"
+      "notices": [
+        "Copyright (c) 2020 magiclen.org (Ron Li)",
+        "Authors: Magic Len <len@magiclen.org>"
+      ]
     },
     {
       "name": "utf8parse",
       "package_url": "https://crates.io/crates/utf8parse/0.2.1",
       "license_id": "Apache-2.0 OR MIT",
-      "notices": "Authors: Joe Wilm <joe@jwilm.com>, Christian Duerr <contact@christianduerr.com>\nCopyright (c) 2016 Joe Wilm\n"
+      "notices": [
+        "Copyright (c) 2016 Joe Wilm",
+        "Authors: Joe Wilm <joe@jwilm.com>, Christian Duerr <contact@christianduerr.com>"
+      ]
     },
     {
       "name": "wasi",
       "package_url": "https://crates.io/crates/wasi/0.10.0+wasi-snapshot-preview1",
       "license_id": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
-      "notices": "Authors: The Cranelift Project Developers\n"
+      "notices": [
+        "Authors: The Cranelift Project Developers"
+      ]
     },
     {
       "name": "wasm-bindgen",
       "package_url": "https://crates.io/crates/wasm-bindgen/0.2.87",
       "license_id": "MIT/Apache-2.0",
-      "notices": "Authors: The wasm-bindgen Developers\nCopyright (c) 2014 Alex Crichton\n"
+      "notices": [
+        "Copyright (c) 2014 Alex Crichton",
+        "Authors: The wasm-bindgen Developers"
+      ]
     },
     {
       "name": "wasm-bindgen-backend",
       "package_url": "https://crates.io/crates/wasm-bindgen-backend/0.2.87",
       "license_id": "MIT/Apache-2.0",
-      "notices": "Authors: The wasm-bindgen Developers\nCopyright (c) 2014 Alex Crichton\n"
+      "notices": [
+        "Authors: The wasm-bindgen Developers",
+        "Copyright (c) 2014 Alex Crichton"
+      ]
     },
     {
       "name": "wasm-bindgen-macro",
       "package_url": "https://crates.io/crates/wasm-bindgen-macro/0.2.87",
       "license_id": "MIT/Apache-2.0",
-      "notices": "Authors: The wasm-bindgen Developers\nCopyright (c) 2014 Alex Crichton\n"
+      "notices": [
+        "Authors: The wasm-bindgen Developers",
+        "Copyright (c) 2014 Alex Crichton"
+      ]
     },
     {
       "name": "wasm-bindgen-macro-support",
       "package_url": "https://crates.io/crates/wasm-bindgen-macro-support/0.2.87",
       "license_id": "MIT/Apache-2.0",
-      "notices": "Authors: The wasm-bindgen Developers\nCopyright (c) 2014 Alex Crichton\n"
+      "notices": [
+        "Authors: The wasm-bindgen Developers",
+        "Copyright (c) 2014 Alex Crichton"
+      ]
     },
     {
       "name": "wasm-bindgen-shared",
       "package_url": "https://crates.io/crates/wasm-bindgen-shared/0.2.87",
       "license_id": "MIT/Apache-2.0",
-      "notices": "Authors: The wasm-bindgen Developers\nCopyright (c) 2014 Alex Crichton\n"
+      "notices": [
+        "Copyright (c) 2014 Alex Crichton",
+        "Authors: The wasm-bindgen Developers"
+      ]
     },
     {
       "name": "winapi",
       "package_url": "https://crates.io/crates/winapi/0.3.9",
       "license_id": "MIT/Apache-2.0",
-      "notices": "Authors: Peter Atashian <retep998@gmail.com>\nCopyright (c) 2015-2018 The winapi-rs Developers\n"
+      "notices": [
+        "Authors: Peter Atashian <retep998@gmail.com>",
+        "Copyright (c) 2015-2018 The winapi-rs Developers"
+      ]
     },
     {
       "name": "winapi-i686-pc-windows-gnu",
       "package_url": "https://crates.io/crates/winapi-i686-pc-windows-gnu/0.4.0",
       "license_id": "MIT/Apache-2.0",
-      "notices": "Authors: Peter Atashian <retep998@gmail.com>\n"
+      "notices": [
+        "Authors: Peter Atashian <retep998@gmail.com>"
+      ]
     },
     {
       "name": "winapi-util",
       "package_url": "https://crates.io/crates/winapi-util/0.1.5",
       "license_id": "Unlicense/MIT",
-      "notices": "Authors: Andrew Gallant <jamslam@gmail.com>\nCopyright (c) 2017 Andrew Gallant\n"
+      "notices": [
+        "Authors: Andrew Gallant <jamslam@gmail.com>",
+        "Copyright (c) 2017 Andrew Gallant"
+      ]
     },
     {
       "name": "winapi-x86_64-pc-windows-gnu",
       "package_url": "https://crates.io/crates/winapi-x86_64-pc-windows-gnu/0.4.0",
       "license_id": "MIT/Apache-2.0",
-      "notices": "Authors: Peter Atashian <retep998@gmail.com>\n"
+      "notices": [
+        "Authors: Peter Atashian <retep998@gmail.com>"
+      ]
     },
     {
       "name": "windows",
       "package_url": "https://crates.io/crates/windows/0.48.0",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Microsoft\nCopyright (c) Microsoft Corporation.\nCopyright (c) Microsoft Corporation.\n"
+      "notices": [
+        "Authors: Microsoft",
+        "Copyright (c) Microsoft Corporation."
+      ]
     },
     {
       "name": "windows-sys",
       "package_url": "https://crates.io/crates/windows-sys/0.48.0",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Microsoft\nCopyright (c) Microsoft Corporation.\nCopyright (c) Microsoft Corporation.\n"
+      "notices": [
+        "Copyright (c) Microsoft Corporation.",
+        "Authors: Microsoft"
+      ]
     },
     {
       "name": "windows-targets",
       "package_url": "https://crates.io/crates/windows-targets/0.48.5",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Microsoft\nCopyright (c) Microsoft Corporation.\nCopyright (c) Microsoft Corporation.\n"
+      "notices": [
+        "Authors: Microsoft",
+        "Copyright (c) Microsoft Corporation."
+      ]
     },
     {
       "name": "windows_aarch64_gnullvm",
       "package_url": "https://crates.io/crates/windows_aarch64_gnullvm/0.48.5",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Microsoft\nCopyright (c) Microsoft Corporation.\nCopyright (c) Microsoft Corporation.\n"
+      "notices": [
+        "Copyright (c) Microsoft Corporation.",
+        "Authors: Microsoft"
+      ]
     },
     {
       "name": "windows_aarch64_msvc",
       "package_url": "https://crates.io/crates/windows_aarch64_msvc/0.48.5",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Microsoft\nCopyright (c) Microsoft Corporation.\nCopyright (c) Microsoft Corporation.\n"
+      "notices": [
+        "Authors: Microsoft",
+        "Copyright (c) Microsoft Corporation."
+      ]
     },
     {
       "name": "windows_i686_gnu",
       "package_url": "https://crates.io/crates/windows_i686_gnu/0.48.5",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Microsoft\nCopyright (c) Microsoft Corporation.\nCopyright (c) Microsoft Corporation.\n"
+      "notices": [
+        "Authors: Microsoft",
+        "Copyright (c) Microsoft Corporation."
+      ]
     },
     {
       "name": "windows_i686_msvc",
       "package_url": "https://crates.io/crates/windows_i686_msvc/0.48.5",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Microsoft\nCopyright (c) Microsoft Corporation.\nCopyright (c) Microsoft Corporation.\n"
+      "notices": [
+        "Authors: Microsoft",
+        "Copyright (c) Microsoft Corporation."
+      ]
     },
     {
       "name": "windows_x86_64_gnu",
       "package_url": "https://crates.io/crates/windows_x86_64_gnu/0.48.5",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Microsoft\nCopyright (c) Microsoft Corporation.\nCopyright (c) Microsoft Corporation.\n"
+      "notices": [
+        "Copyright (c) Microsoft Corporation.",
+        "Authors: Microsoft"
+      ]
     },
     {
       "name": "windows_x86_64_gnullvm",
       "package_url": "https://crates.io/crates/windows_x86_64_gnullvm/0.48.5",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Microsoft\nCopyright (c) Microsoft Corporation.\nCopyright (c) Microsoft Corporation.\n"
+      "notices": [
+        "Copyright (c) Microsoft Corporation.",
+        "Authors: Microsoft"
+      ]
     },
     {
       "name": "windows_x86_64_msvc",
       "package_url": "https://crates.io/crates/windows_x86_64_msvc/0.48.5",
       "license_id": "MIT OR Apache-2.0",
-      "notices": "Authors: Microsoft\nCopyright (c) Microsoft Corporation.\nCopyright (c) Microsoft Corporation.\n"
+      "notices": [
+        "Authors: Microsoft",
+        "Copyright (c) Microsoft Corporation."
+      ]
     },
     {
       "name": "winnow",
       "package_url": "https://crates.io/crates/winnow/0.5.15",
       "license_id": "MIT",
-      "notices": ""
+      "notices": []
     }
   ],
   "licenses": [

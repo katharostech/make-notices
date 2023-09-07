@@ -1,4 +1,5 @@
 use std::{
+    collections::HashSet,
     os::unix::prelude::OsStrExt,
     path::{Path, PathBuf},
 };
@@ -43,6 +44,8 @@ struct Config {
     /// The licenses that are allowed
     #[serde(deserialize_with = "license_reqs")]
     allowed_licenses: Vec<LicenseReq>,
+    #[serde(default)]
+    ignore_packages: Vec<String>,
 }
 
 fn license_reqs<'de, D: serde::Deserializer<'de>>(d: D) -> Result<Vec<LicenseReq>, D::Error> {
@@ -81,7 +84,7 @@ pub struct Dep {
     name: String,
     package_url: String,
     license_id: String,
-    notices: String,
+    notices: HashSet<String>,
 }
 
 #[derive(Default)]
@@ -164,6 +167,8 @@ fn main() {
         log::error!("{e:?}");
         std::process::exit(1);
     }
+
+    log::info!("Done 🎉");
 }
 
 fn start() -> anyhow::Result<()> {
@@ -209,13 +214,13 @@ static NOT_COPYRIGHT_RE: Lazy<Regex> =
     Lazy::new(|| Regex::new("(?i)(year|notice|holder|owner|interest|yyyy)").unwrap());
 
 /// Get all of the copyright notices
-fn scan_for_notices<W: std::fmt::Write>(out: &mut W, path: &Path) -> anyhow::Result<()> {
+fn scan_for_notices(out: &mut HashSet<String>, path: &Path) -> anyhow::Result<()> {
     // Add NOTICE file contents in accordance with Apache-2.0 license
     let notice_path = path.join("NOTICE");
     if notice_path.exists() {
         let text = std::fs::read_to_string(&notice_path)
             .context(format!("Could not read file {notice_path:?}"))?;
-        writeln!(out, "{text}").ok();
+        out.insert(text);
     }
 
     for entry in std::fs::read_dir(path)? {
@@ -228,10 +233,35 @@ fn scan_for_notices<W: std::fmt::Write>(out: &mut W, path: &Path) -> anyhow::Res
             for m in matches {
                 let s = m.as_str();
                 if !NOT_COPYRIGHT_RE.is_match(s) {
-                    writeln!(out, "{s}").ok();
+                    out.insert(s.into());
                 }
             }
         }
+    }
+
+    Ok(())
+}
+
+fn handle_package_license(license: &str, notices: &mut Notices) -> anyhow::Result<()> {
+    // Get the package license
+    let license_expr = Expression::parse_mode(license, ParseMode::LAX)?;
+
+    // Validate license is allowed
+    license_expr
+                .evaluate_with_failures(|req| CONFIG.allowed_licenses.iter().any(|x| x == req))
+                .map_err(|failed_licenses| {
+                    let mut msg =
+                        String::from("None of the following licenses were allowed in the `allowed_licenses` configuration: ");
+                    let len = failed_licenses.len();
+                    for (i, lic) in failed_licenses.into_iter().enumerate() {
+                        write!(msg, "{}{}", lic.req, if i != len - 1 { ", " } else { "" }).ok();
+                    }
+                    anyhow::format_err!(msg)
+                })?;
+
+    for req in license_expr.requirements() {
+        let req = req.req.clone();
+        notices.add_license(req);
     }
 
     Ok(())
@@ -260,49 +290,32 @@ mod cargo {
 
         for package in packages {
             let source = package.source.unwrap();
+            let name = package.name;
+            if CONFIG.ignore_packages.contains(&name) {
+                continue;
+            }
+            let version = package.version;
+            let license = package
+                .license
+                .ok_or_else(|| anyhow::format_err!("Package {name} does not have a license"))?;
 
             // Make sure the crate is from crates.io
-            if !source.is_crates_io() {
-                return Err(anyhow::format_err!(
-                    "Only crates from crates.io is supported right now"
-                ));
-            }
+            let package_url = if source.is_crates_io() {
+                format!("https://crates.io/crates/{name}/{version}")
+            } else {
+                source.repr.clone()
+            };
 
-            // Get the package license
-            let license_expr = package
-                .license
-                .as_ref()
-                .ok_or_else(|| {
-                    anyhow::format_err!("Package {:?} does not have a license", package.license)
-                })
-                .and_then(|x| Expression::parse_mode(x, ParseMode::LAX).map_err(|e| e.into()))?;
-
-            // Validate license is allowed
-            license_expr
-                .evaluate_with_failures(|req| CONFIG.allowed_licenses.iter().any(|x| x == req))
-                .map_err(|failed_licenses| {
-                    let mut msg =
-                        String::from("None of the following licenses were allowed in the `allowed_licenses` configuration: ");
-                    let len = failed_licenses.len();
-                    for (i, lic) in failed_licenses.into_iter().enumerate() {
-                        write!(msg, "{}{}", lic.req, if i != len - 1 { ", " } else { "" }).ok();
-                    }
-                    anyhow::format_err!(msg)
-                })?;
-
-            for req in license_expr.requirements() {
-                let req = req.req.clone();
-                notices.add_license(req);
-            }
+            handle_package_license(&license, notices)?;
 
             // Scan the package for copyright notices
             let dep_notices = {
-                let mut out = String::new();
+                let mut out = HashSet::default();
                 let package_path = package.manifest_path.parent().unwrap();
 
                 // Add authors from the crate metadata
                 if !package.authors.is_empty() {
-                    writeln!(out, "Authors: {}", package.authors.join(", ")).ok();
+                    out.insert(format!("Authors: {}", package.authors.join(", ")));
                 }
 
                 scan_for_notices(&mut out, package_path.as_ref())?;
@@ -310,12 +323,10 @@ mod cargo {
                 out
             };
 
-            let name = package.name;
-            let version = package.version;
             notices.dependencies.push(Dep {
-                package_url: format!("https://crates.io/crates/{name}/{version}"),
+                package_url,
                 name,
-                license_id: license_expr.to_string(),
+                license_id: license,
                 notices: dep_notices,
             });
         }
@@ -325,9 +336,75 @@ mod cargo {
 }
 
 mod pnpm {
+    use std::{collections::HashMap, process::Command};
+
     use super::*;
 
+    #[derive(serde::Deserialize)]
+    struct PnpmListItem {
+        dependencies: HashMap<String, PnpmListDep>,
+        #[serde(rename = "devDependencies")]
+        dev_dependencies: HashMap<String, PnpmListDep>,
+    }
+
+    #[derive(serde::Deserialize)]
+    struct PnpmListDep {
+        path: PathBuf,
+    }
+
+    #[derive(serde::Deserialize)]
+    struct PackageJson {
+        name: String,
+        version: String,
+        license: Option<String>,
+    }
+
     pub fn collect_notices(notices: &mut Notices) -> anyhow::Result<()> {
+        if !Path::new("pnpm-lock.yaml").exists() {
+            log::info!("Skipping pnpm packages because lockfile not found");
+            return Ok(());
+        }
+
+        let cmd_out = Command::new("pnpm").arg("list").arg("--json").output()?;
+        if !cmd_out.status.success() {
+            anyhow::bail!("Error running `pnpm list`");
+        }
+        let pnpm_list: Vec<PnpmListItem> =
+            serde_json::from_slice(&cmd_out.stdout).context("Error parsing pnpm list output")?;
+
+        for pkg in pnpm_list {
+            for (_, item) in pkg.dependencies.iter().chain(pkg.dev_dependencies.iter()) {
+                let package_json_path = item.path.join("package.json");
+                let package: PackageJson = serde_json::from_reader(
+                    std::fs::OpenOptions::new()
+                        .read(true)
+                        .open(package_json_path)?,
+                )?;
+                let name = package.name;
+                let version = package.version;
+
+                if CONFIG.ignore_packages.contains(&name) {
+                    continue;
+                }
+
+                let license = package
+                    .license
+                    .ok_or_else(|| anyhow::format_err!("Package {name} doesn't have a license"))?;
+
+                handle_package_license(&license, notices)?;
+
+                let mut dep_notices = HashSet::default();
+                scan_for_notices(&mut dep_notices, &item.path)?;
+
+                notices.dependencies.push(Dep {
+                    package_url: format!("https://www.npmjs.com/package/{name}/v/{version}"),
+                    name,
+                    license_id: license,
+                    notices: dep_notices,
+                });
+            }
+        }
+
         Ok(())
     }
 }
@@ -427,7 +504,10 @@ mod generate {
             notices,
         } in deps
         {
-            let notices_escaped = html_escape::encode_text(notices).replace('\n', "<br />");
+            let notices_escaped = html_escape::encode_text(
+                &notices.clone().into_iter().collect::<Vec<_>>().join("\n"),
+            )
+            .replace('\n', "<br />");
             writeln!(out, "<tr>").ok();
             writeln!(
                 out,

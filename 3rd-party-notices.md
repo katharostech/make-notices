@@ -11,334 +11,334 @@
 </thead>
 <tbody>
 <tr>
-<td>Inflector</td><td><a href="https://crates.io/crates/Inflector/0.11.4">https://crates.io/crates/Inflector/0.11.4</a></td><td>BSD-2-Clause</td><td>Authors: Josh Teeter&lt;joshteeter@gmail.com&gt;<br /></td>
+<td>Inflector</td><td><a href="https://crates.io/crates/Inflector/0.11.4">https://crates.io/crates/Inflector/0.11.4</a></td><td>BSD-2-Clause</td><td>Authors: Josh Teeter&lt;joshteeter@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>aho-corasick</td><td><a href="https://crates.io/crates/aho-corasick/1.0.5">https://crates.io/crates/aho-corasick/1.0.5</a></td><td>Unlicense OR MIT</td><td>Authors: Andrew Gallant &lt;jamslam@gmail.com&gt;<br />Copyright (c) 2015 Andrew Gallant<br /></td>
+<td>aho-corasick</td><td><a href="https://crates.io/crates/aho-corasick/1.0.5">https://crates.io/crates/aho-corasick/1.0.5</a></td><td>Unlicense OR MIT</td><td>Authors: Andrew Gallant &lt;jamslam@gmail.com&gt;<br />Copyright (c) 2015 Andrew Gallant</td>
 </tr>
 <tr>
-<td>android-tzdata</td><td><a href="https://crates.io/crates/android-tzdata/0.1.1">https://crates.io/crates/android-tzdata/0.1.1</a></td><td>MIT OR Apache-2.0</td><td>Authors: RumovZ<br /></td>
+<td>android-tzdata</td><td><a href="https://crates.io/crates/android-tzdata/0.1.1">https://crates.io/crates/android-tzdata/0.1.1</a></td><td>MIT OR Apache-2.0</td><td>Authors: RumovZ</td>
 </tr>
 <tr>
-<td>android_system_properties</td><td><a href="https://crates.io/crates/android_system_properties/0.1.5">https://crates.io/crates/android_system_properties/0.1.5</a></td><td>MIT/Apache-2.0</td><td>Authors: Nicolas Silva &lt;nical@fastmail.com&gt;<br />Copyright (c) 2013 Nicolas Silva<br /></td>
+<td>android_system_properties</td><td><a href="https://crates.io/crates/android_system_properties/0.1.5">https://crates.io/crates/android_system_properties/0.1.5</a></td><td>MIT/Apache-2.0</td><td>Copyright (c) 2013 Nicolas Silva<br />Authors: Nicolas Silva &lt;nical@fastmail.com&gt;</td>
 </tr>
 <tr>
-<td>anstream</td><td><a href="https://crates.io/crates/anstream/0.5.0">https://crates.io/crates/anstream/0.5.0</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) Individual contributors<br /></td>
+<td>anstream</td><td><a href="https://crates.io/crates/anstream/0.5.0">https://crates.io/crates/anstream/0.5.0</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) Individual contributors</td>
 </tr>
 <tr>
-<td>anstyle</td><td><a href="https://crates.io/crates/anstyle/1.0.2">https://crates.io/crates/anstyle/1.0.2</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) 2022 The rust-cli Developers<br /></td>
+<td>anstyle</td><td><a href="https://crates.io/crates/anstyle/1.0.2">https://crates.io/crates/anstyle/1.0.2</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) 2022 The rust-cli Developers</td>
 </tr>
 <tr>
-<td>anstyle-parse</td><td><a href="https://crates.io/crates/anstyle-parse/0.2.1">https://crates.io/crates/anstyle-parse/0.2.1</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) 2016 Joe Wilm and individual contributors<br /></td>
+<td>anstyle-parse</td><td><a href="https://crates.io/crates/anstyle-parse/0.2.1">https://crates.io/crates/anstyle-parse/0.2.1</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) 2016 Joe Wilm and individual contributors</td>
 </tr>
 <tr>
-<td>anstyle-query</td><td><a href="https://crates.io/crates/anstyle-query/1.0.0">https://crates.io/crates/anstyle-query/1.0.0</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) Individual contributors<br /></td>
+<td>anstyle-query</td><td><a href="https://crates.io/crates/anstyle-query/1.0.0">https://crates.io/crates/anstyle-query/1.0.0</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) Individual contributors</td>
 </tr>
 <tr>
-<td>anstyle-wincon</td><td><a href="https://crates.io/crates/anstyle-wincon/2.1.0">https://crates.io/crates/anstyle-wincon/2.1.0</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) 2015 Josh Triplett, 2022 The rust-cli Developers<br /></td>
+<td>anstyle-wincon</td><td><a href="https://crates.io/crates/anstyle-wincon/2.1.0">https://crates.io/crates/anstyle-wincon/2.1.0</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) 2015 Josh Triplett, 2022 The rust-cli Developers</td>
 </tr>
 <tr>
-<td>anyhow</td><td><a href="https://crates.io/crates/anyhow/1.0.75">https://crates.io/crates/anyhow/1.0.75</a></td><td>MIT OR Apache-2.0</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;<br /></td>
+<td>anyhow</td><td><a href="https://crates.io/crates/anyhow/1.0.75">https://crates.io/crates/anyhow/1.0.75</a></td><td>MIT OR Apache-2.0</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>autocfg</td><td><a href="https://crates.io/crates/autocfg/1.1.0">https://crates.io/crates/autocfg/1.1.0</a></td><td>Apache-2.0 OR MIT</td><td>Authors: Josh Stone &lt;cuviper@gmail.com&gt;<br />Copyright (c) 2018 Josh Stone<br /></td>
+<td>autocfg</td><td><a href="https://crates.io/crates/autocfg/1.1.0">https://crates.io/crates/autocfg/1.1.0</a></td><td>Apache-2.0 OR MIT</td><td>Authors: Josh Stone &lt;cuviper@gmail.com&gt;<br />Copyright (c) 2018 Josh Stone</td>
 </tr>
 <tr>
-<td>bitflags</td><td><a href="https://crates.io/crates/bitflags/2.4.0">https://crates.io/crates/bitflags/2.4.0</a></td><td>MIT OR Apache-2.0</td><td>Authors: The Rust Project Developers<br />Copyright (c) 2014 The Rust Project Developers<br /></td>
+<td>bitflags</td><td><a href="https://crates.io/crates/bitflags/2.4.0">https://crates.io/crates/bitflags/2.4.0</a></td><td>MIT OR Apache-2.0</td><td>Authors: The Rust Project Developers<br />Copyright (c) 2014 The Rust Project Developers</td>
 </tr>
 <tr>
-<td>bumpalo</td><td><a href="https://crates.io/crates/bumpalo/3.13.0">https://crates.io/crates/bumpalo/3.13.0</a></td><td>MIT/Apache-2.0</td><td>Authors: Nick Fitzgerald &lt;fitzgen@gmail.com&gt;<br />Copyright (c) 2019 Nick Fitzgerald<br /></td>
+<td>bumpalo</td><td><a href="https://crates.io/crates/bumpalo/3.13.0">https://crates.io/crates/bumpalo/3.13.0</a></td><td>MIT/Apache-2.0</td><td>Authors: Nick Fitzgerald &lt;fitzgen@gmail.com&gt;<br />Copyright (c) 2019 Nick Fitzgerald</td>
 </tr>
 <tr>
-<td>camino</td><td><a href="https://crates.io/crates/camino/1.1.6">https://crates.io/crates/camino/1.1.6</a></td><td>MIT OR Apache-2.0</td><td>Authors: Without Boats &lt;saoirse@without.boats&gt;, Ashley Williams &lt;ashley666ashley@gmail.com&gt;, Steve Klabnik &lt;steve@steveklabnik.com&gt;, Rain &lt;rain@sunshowers.io&gt;<br /></td>
+<td>camino</td><td><a href="https://crates.io/crates/camino/1.1.6">https://crates.io/crates/camino/1.1.6</a></td><td>MIT OR Apache-2.0</td><td>Authors: Without Boats &lt;saoirse@without.boats&gt;, Ashley Williams &lt;ashley666ashley@gmail.com&gt;, Steve Klabnik &lt;steve@steveklabnik.com&gt;, Rain &lt;rain@sunshowers.io&gt;</td>
 </tr>
 <tr>
 <td>cargo-platform</td><td><a href="https://crates.io/crates/cargo-platform/0.1.3">https://crates.io/crates/cargo-platform/0.1.3</a></td><td>MIT OR Apache-2.0</td><td></td>
 </tr>
 <tr>
-<td>cargo_metadata</td><td><a href="https://crates.io/crates/cargo_metadata/0.17.0">https://crates.io/crates/cargo_metadata/0.17.0</a></td><td>MIT</td><td>Authors: Oliver Schneider &lt;git-spam-no-reply9815368754983@oli-obk.de&gt;<br /></td>
+<td>cargo_metadata</td><td><a href="https://crates.io/crates/cargo_metadata/0.17.0">https://crates.io/crates/cargo_metadata/0.17.0</a></td><td>MIT</td><td>Authors: Oliver Schneider &lt;git-spam-no-reply9815368754983@oli-obk.de&gt;</td>
 </tr>
 <tr>
-<td>cc</td><td><a href="https://crates.io/crates/cc/1.0.83">https://crates.io/crates/cc/1.0.83</a></td><td>MIT OR Apache-2.0</td><td>Authors: Alex Crichton &lt;alex@alexcrichton.com&gt;<br />Copyright (c) 2014 Alex Crichton<br /></td>
+<td>cc</td><td><a href="https://crates.io/crates/cc/1.0.83">https://crates.io/crates/cc/1.0.83</a></td><td>MIT OR Apache-2.0</td><td>Authors: Alex Crichton &lt;alex@alexcrichton.com&gt;<br />Copyright (c) 2014 Alex Crichton</td>
 </tr>
 <tr>
-<td>cfg-if</td><td><a href="https://crates.io/crates/cfg-if/1.0.0">https://crates.io/crates/cfg-if/1.0.0</a></td><td>MIT/Apache-2.0</td><td>Authors: Alex Crichton &lt;alex@alexcrichton.com&gt;<br />Copyright (c) 2014 Alex Crichton<br /></td>
+<td>cfg-if</td><td><a href="https://crates.io/crates/cfg-if/1.0.0">https://crates.io/crates/cfg-if/1.0.0</a></td><td>MIT/Apache-2.0</td><td>Authors: Alex Crichton &lt;alex@alexcrichton.com&gt;<br />Copyright (c) 2014 Alex Crichton</td>
 </tr>
 <tr>
-<td>chrono</td><td><a href="https://crates.io/crates/chrono/0.4.28">https://crates.io/crates/chrono/0.4.28</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) 2014--2017, Kang Seonghoon and<br />Copyright (c) 2014, Kang Seonghoon.<br /></td>
+<td>chrono</td><td><a href="https://crates.io/crates/chrono/0.4.28">https://crates.io/crates/chrono/0.4.28</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) 2014--2017, Kang Seonghoon and<br />Copyright (c) 2014, Kang Seonghoon.</td>
 </tr>
 <tr>
-<td>clap</td><td><a href="https://crates.io/crates/clap/4.4.2">https://crates.io/crates/clap/4.4.2</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) Individual contributors<br /></td>
+<td>clap</td><td><a href="https://crates.io/crates/clap/4.4.2">https://crates.io/crates/clap/4.4.2</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) Individual contributors</td>
 </tr>
 <tr>
-<td>clap_builder</td><td><a href="https://crates.io/crates/clap_builder/4.4.2">https://crates.io/crates/clap_builder/4.4.2</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) 2015-2022 Kevin B. Knapp and Clap Contributors<br /></td>
+<td>clap_builder</td><td><a href="https://crates.io/crates/clap_builder/4.4.2">https://crates.io/crates/clap_builder/4.4.2</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) 2015-2022 Kevin B. Knapp and Clap Contributors</td>
 </tr>
 <tr>
-<td>clap_derive</td><td><a href="https://crates.io/crates/clap_derive/4.4.2">https://crates.io/crates/clap_derive/4.4.2</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) 2015-2022 Kevin B. Knapp and Clap Contributors<br /></td>
+<td>clap_derive</td><td><a href="https://crates.io/crates/clap_derive/4.4.2">https://crates.io/crates/clap_derive/4.4.2</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) 2015-2022 Kevin B. Knapp and Clap Contributors</td>
 </tr>
 <tr>
-<td>clap_lex</td><td><a href="https://crates.io/crates/clap_lex/0.5.1">https://crates.io/crates/clap_lex/0.5.1</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) 2015-2022 Kevin B. Knapp and Clap Contributors<br /></td>
+<td>clap_lex</td><td><a href="https://crates.io/crates/clap_lex/0.5.1">https://crates.io/crates/clap_lex/0.5.1</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) 2015-2022 Kevin B. Knapp and Clap Contributors</td>
 </tr>
 <tr>
-<td>colorchoice</td><td><a href="https://crates.io/crates/colorchoice/1.0.0">https://crates.io/crates/colorchoice/1.0.0</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) Individual contributors<br /></td>
+<td>colorchoice</td><td><a href="https://crates.io/crates/colorchoice/1.0.0">https://crates.io/crates/colorchoice/1.0.0</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) Individual contributors</td>
 </tr>
 <tr>
-<td>core-foundation-sys</td><td><a href="https://crates.io/crates/core-foundation-sys/0.8.4">https://crates.io/crates/core-foundation-sys/0.8.4</a></td><td>MIT / Apache-2.0</td><td>Authors: The Servo Project Developers<br />Copyright (c) 2012-2013 Mozilla Foundation<br /></td>
+<td>core-foundation-sys</td><td><a href="https://crates.io/crates/core-foundation-sys/0.8.4">https://crates.io/crates/core-foundation-sys/0.8.4</a></td><td>MIT / Apache-2.0</td><td>Authors: The Servo Project Developers<br />Copyright (c) 2012-2013 Mozilla Foundation</td>
 </tr>
 <tr>
-<td>darling</td><td><a href="https://crates.io/crates/darling/0.14.4">https://crates.io/crates/darling/0.14.4</a></td><td>MIT</td><td>Authors: Ted Driggs &lt;ted.driggs@outlook.com&gt;<br />Copyright (c) 2017 Ted Driggs<br /></td>
+<td>darling</td><td><a href="https://crates.io/crates/darling/0.14.4">https://crates.io/crates/darling/0.14.4</a></td><td>MIT</td><td>Copyright (c) 2017 Ted Driggs<br />Authors: Ted Driggs &lt;ted.driggs@outlook.com&gt;</td>
 </tr>
 <tr>
-<td>darling_core</td><td><a href="https://crates.io/crates/darling_core/0.14.4">https://crates.io/crates/darling_core/0.14.4</a></td><td>MIT</td><td>Authors: Ted Driggs &lt;ted.driggs@outlook.com&gt;<br />Copyright (c) 2017 Ted Driggs<br /></td>
+<td>darling_core</td><td><a href="https://crates.io/crates/darling_core/0.14.4">https://crates.io/crates/darling_core/0.14.4</a></td><td>MIT</td><td>Authors: Ted Driggs &lt;ted.driggs@outlook.com&gt;<br />Copyright (c) 2017 Ted Driggs</td>
 </tr>
 <tr>
-<td>darling_macro</td><td><a href="https://crates.io/crates/darling_macro/0.14.4">https://crates.io/crates/darling_macro/0.14.4</a></td><td>MIT</td><td>Authors: Ted Driggs &lt;ted.driggs@outlook.com&gt;<br />Copyright (c) 2017 Ted Driggs<br /></td>
+<td>darling_macro</td><td><a href="https://crates.io/crates/darling_macro/0.14.4">https://crates.io/crates/darling_macro/0.14.4</a></td><td>MIT</td><td>Copyright (c) 2017 Ted Driggs<br />Authors: Ted Driggs &lt;ted.driggs@outlook.com&gt;</td>
 </tr>
 <tr>
-<td>derive_builder</td><td><a href="https://crates.io/crates/derive_builder/0.12.0">https://crates.io/crates/derive_builder/0.12.0</a></td><td>MIT/Apache-2.0</td><td>Authors: Colin Kiegel &lt;kiegel@gmx.de&gt;, Pascal Hertleif &lt;killercup@gmail.com&gt;, Jan-Erik Rediger &lt;janerik@fnordig.de&gt;, Ted Driggs &lt;ted.driggs@outlook.com&gt;<br />Copyright (c) 2016 rust-derive-builder contributors<br /></td>
+<td>derive_builder</td><td><a href="https://crates.io/crates/derive_builder/0.12.0">https://crates.io/crates/derive_builder/0.12.0</a></td><td>MIT/Apache-2.0</td><td>Copyright (c) 2016 rust-derive-builder contributors<br />Authors: Colin Kiegel &lt;kiegel@gmx.de&gt;, Pascal Hertleif &lt;killercup@gmail.com&gt;, Jan-Erik Rediger &lt;janerik@fnordig.de&gt;, Ted Driggs &lt;ted.driggs@outlook.com&gt;</td>
 </tr>
 <tr>
-<td>derive_builder_core</td><td><a href="https://crates.io/crates/derive_builder_core/0.12.0">https://crates.io/crates/derive_builder_core/0.12.0</a></td><td>MIT/Apache-2.0</td><td>Authors: Colin Kiegel &lt;kiegel@gmx.de&gt;, Pascal Hertleif &lt;killercup@gmail.com&gt;, Jan-Erik Rediger &lt;janerik@fnordig.de&gt;, Ted Driggs &lt;ted.driggs@outlook.com&gt;<br />Copyright (c) 2016 rust-derive-builder contributors<br /></td>
+<td>derive_builder_core</td><td><a href="https://crates.io/crates/derive_builder_core/0.12.0">https://crates.io/crates/derive_builder_core/0.12.0</a></td><td>MIT/Apache-2.0</td><td>Copyright (c) 2016 rust-derive-builder contributors<br />Authors: Colin Kiegel &lt;kiegel@gmx.de&gt;, Pascal Hertleif &lt;killercup@gmail.com&gt;, Jan-Erik Rediger &lt;janerik@fnordig.de&gt;, Ted Driggs &lt;ted.driggs@outlook.com&gt;</td>
 </tr>
 <tr>
-<td>derive_builder_macro</td><td><a href="https://crates.io/crates/derive_builder_macro/0.12.0">https://crates.io/crates/derive_builder_macro/0.12.0</a></td><td>MIT/Apache-2.0</td><td>Authors: Colin Kiegel &lt;kiegel@gmx.de&gt;, Pascal Hertleif &lt;killercup@gmail.com&gt;, Jan-Erik Rediger &lt;janerik@fnordig.de&gt;, Ted Driggs &lt;ted.driggs@outlook.com&gt;<br />Copyright (c) 2016 rust-derive-builder contributors<br /></td>
+<td>derive_builder_macro</td><td><a href="https://crates.io/crates/derive_builder_macro/0.12.0">https://crates.io/crates/derive_builder_macro/0.12.0</a></td><td>MIT/Apache-2.0</td><td>Copyright (c) 2016 rust-derive-builder contributors<br />Authors: Colin Kiegel &lt;kiegel@gmx.de&gt;, Pascal Hertleif &lt;killercup@gmail.com&gt;, Jan-Erik Rediger &lt;janerik@fnordig.de&gt;, Ted Driggs &lt;ted.driggs@outlook.com&gt;</td>
 </tr>
 <tr>
 <td>env_logger</td><td><a href="https://crates.io/crates/env_logger/0.10.0">https://crates.io/crates/env_logger/0.10.0</a></td><td>MIT OR Apache-2.0</td><td></td>
 </tr>
 <tr>
-<td>equivalent</td><td><a href="https://crates.io/crates/equivalent/1.0.1">https://crates.io/crates/equivalent/1.0.1</a></td><td>Apache-2.0 OR MIT</td><td>Copyright (c) 2016--2023<br /></td>
+<td>equivalent</td><td><a href="https://crates.io/crates/equivalent/1.0.1">https://crates.io/crates/equivalent/1.0.1</a></td><td>Apache-2.0 OR MIT</td><td>Copyright (c) 2016--2023</td>
 </tr>
 <tr>
-<td>errno</td><td><a href="https://crates.io/crates/errno/0.3.3">https://crates.io/crates/errno/0.3.3</a></td><td>MIT OR Apache-2.0</td><td>Authors: Chris Wong &lt;lambda.fairy@gmail.com&gt;<br />Copyright (c) 2014 Chris Wong<br /></td>
+<td>errno</td><td><a href="https://crates.io/crates/errno/0.3.3">https://crates.io/crates/errno/0.3.3</a></td><td>MIT OR Apache-2.0</td><td>Authors: Chris Wong &lt;lambda.fairy@gmail.com&gt;<br />Copyright (c) 2014 Chris Wong</td>
 </tr>
 <tr>
-<td>errno-dragonfly</td><td><a href="https://crates.io/crates/errno-dragonfly/0.1.2">https://crates.io/crates/errno-dragonfly/0.1.2</a></td><td>MIT</td><td>Authors: Michael Neumann &lt;mneumann@ntecs.de&gt;<br />Copyright (c) 2017 Michael Neumann<br /></td>
+<td>errno-dragonfly</td><td><a href="https://crates.io/crates/errno-dragonfly/0.1.2">https://crates.io/crates/errno-dragonfly/0.1.2</a></td><td>MIT</td><td>Authors: Michael Neumann &lt;mneumann@ntecs.de&gt;<br />Copyright (c) 2017 Michael Neumann</td>
 </tr>
 <tr>
-<td>fnv</td><td><a href="https://crates.io/crates/fnv/1.0.7">https://crates.io/crates/fnv/1.0.7</a></td><td>Apache-2.0 / MIT</td><td>Authors: Alex Crichton &lt;alex@alexcrichton.com&gt;<br />Copyright (c) 2017 Contributors<br /></td>
+<td>fnv</td><td><a href="https://crates.io/crates/fnv/1.0.7">https://crates.io/crates/fnv/1.0.7</a></td><td>Apache-2.0 / MIT</td><td>Copyright (c) 2017 Contributors<br />Authors: Alex Crichton &lt;alex@alexcrichton.com&gt;</td>
 </tr>
 <tr>
-<td>hashbrown</td><td><a href="https://crates.io/crates/hashbrown/0.14.0">https://crates.io/crates/hashbrown/0.14.0</a></td><td>MIT OR Apache-2.0</td><td>Authors: Amanieu d'Antras &lt;amanieu@gmail.com&gt;<br />Copyright (c) 2016 Amanieu d'Antras<br /></td>
+<td>hashbrown</td><td><a href="https://crates.io/crates/hashbrown/0.14.0">https://crates.io/crates/hashbrown/0.14.0</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) 2016 Amanieu d'Antras<br />Authors: Amanieu d'Antras &lt;amanieu@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>heck</td><td><a href="https://crates.io/crates/heck/0.4.1">https://crates.io/crates/heck/0.4.1</a></td><td>MIT OR Apache-2.0</td><td>Authors: Without Boats &lt;woboats@gmail.com&gt;<br />Copyright (c) 2015 The Rust Project Developers<br /></td>
+<td>heck</td><td><a href="https://crates.io/crates/heck/0.4.1">https://crates.io/crates/heck/0.4.1</a></td><td>MIT OR Apache-2.0</td><td>Authors: Without Boats &lt;woboats@gmail.com&gt;<br />Copyright (c) 2015 The Rust Project Developers</td>
 </tr>
 <tr>
-<td>hermit-abi</td><td><a href="https://crates.io/crates/hermit-abi/0.3.2">https://crates.io/crates/hermit-abi/0.3.2</a></td><td>MIT OR Apache-2.0</td><td>Authors: Stefan Lankes<br /></td>
+<td>hermit-abi</td><td><a href="https://crates.io/crates/hermit-abi/0.3.2">https://crates.io/crates/hermit-abi/0.3.2</a></td><td>MIT OR Apache-2.0</td><td>Authors: Stefan Lankes</td>
 </tr>
 <tr>
-<td>html-escape</td><td><a href="https://crates.io/crates/html-escape/0.2.13">https://crates.io/crates/html-escape/0.2.13</a></td><td>MIT</td><td>Authors: Magic Len &lt;len@magiclen.org&gt;<br />Copyright (c) 2020 magiclen.org (Ron Li)<br /></td>
+<td>html-escape</td><td><a href="https://crates.io/crates/html-escape/0.2.13">https://crates.io/crates/html-escape/0.2.13</a></td><td>MIT</td><td>Copyright (c) 2020 magiclen.org (Ron Li)<br />Authors: Magic Len &lt;len@magiclen.org&gt;</td>
 </tr>
 <tr>
-<td>humantime</td><td><a href="https://crates.io/crates/humantime/2.1.0">https://crates.io/crates/humantime/2.1.0</a></td><td>MIT/Apache-2.0</td><td>Authors: Paul Colomiets &lt;paul@colomiets.name&gt;<br />Copyright (c) 2016 The humantime Developers<br />Copyright (c) 2016 Pyfisch<br />Copyright © 2005-2013 Rich Felker<br /></td>
+<td>humantime</td><td><a href="https://crates.io/crates/humantime/2.1.0">https://crates.io/crates/humantime/2.1.0</a></td><td>MIT/Apache-2.0</td><td>Copyright © 2005-2013 Rich Felker<br />Copyright (c) 2016 The humantime Developers<br />Copyright (c) 2016 Pyfisch<br />Authors: Paul Colomiets &lt;paul@colomiets.name&gt;</td>
 </tr>
 <tr>
-<td>iana-time-zone</td><td><a href="https://crates.io/crates/iana-time-zone/0.1.57">https://crates.io/crates/iana-time-zone/0.1.57</a></td><td>MIT OR Apache-2.0</td><td>Authors: Andrew Straw &lt;strawman@astraw.com&gt;, René Kijewski &lt;rene.kijewski@fu-berlin.de&gt;, Ryan Lopopolo &lt;rjl@hyperbo.la&gt;<br />Copyright (c) 2020 Andrew D. Straw<br /></td>
+<td>iana-time-zone</td><td><a href="https://crates.io/crates/iana-time-zone/0.1.57">https://crates.io/crates/iana-time-zone/0.1.57</a></td><td>MIT OR Apache-2.0</td><td>Authors: Andrew Straw &lt;strawman@astraw.com&gt;, René Kijewski &lt;rene.kijewski@fu-berlin.de&gt;, Ryan Lopopolo &lt;rjl@hyperbo.la&gt;<br />Copyright (c) 2020 Andrew D. Straw</td>
 </tr>
 <tr>
-<td>iana-time-zone-haiku</td><td><a href="https://crates.io/crates/iana-time-zone-haiku/0.1.2">https://crates.io/crates/iana-time-zone-haiku/0.1.2</a></td><td>MIT OR Apache-2.0</td><td>Authors: René Kijewski &lt;crates.io@k6i.de&gt;<br />Copyright (c) 2020 Andrew D. Straw<br /></td>
+<td>iana-time-zone-haiku</td><td><a href="https://crates.io/crates/iana-time-zone-haiku/0.1.2">https://crates.io/crates/iana-time-zone-haiku/0.1.2</a></td><td>MIT OR Apache-2.0</td><td>Authors: René Kijewski &lt;crates.io@k6i.de&gt;<br />Copyright (c) 2020 Andrew D. Straw</td>
 </tr>
 <tr>
-<td>ident_case</td><td><a href="https://crates.io/crates/ident_case/1.0.1">https://crates.io/crates/ident_case/1.0.1</a></td><td>MIT/Apache-2.0</td><td>Authors: Ted Driggs &lt;ted.driggs@outlook.com&gt;<br /></td>
+<td>ident_case</td><td><a href="https://crates.io/crates/ident_case/1.0.1">https://crates.io/crates/ident_case/1.0.1</a></td><td>MIT/Apache-2.0</td><td>Authors: Ted Driggs &lt;ted.driggs@outlook.com&gt;</td>
 </tr>
 <tr>
-<td>indexmap</td><td><a href="https://crates.io/crates/indexmap/2.0.0">https://crates.io/crates/indexmap/2.0.0</a></td><td>Apache-2.0 OR MIT</td><td>Copyright (c) 2016--2017<br /></td>
+<td>indexmap</td><td><a href="https://crates.io/crates/indexmap/2.0.0">https://crates.io/crates/indexmap/2.0.0</a></td><td>Apache-2.0 OR MIT</td><td>Copyright (c) 2016--2017</td>
 </tr>
 <tr>
-<td>is-terminal</td><td><a href="https://crates.io/crates/is-terminal/0.4.9">https://crates.io/crates/is-terminal/0.4.9</a></td><td>MIT</td><td>Authors: softprops &lt;d.tangren@gmail.com&gt;, Dan Gohman &lt;dev@sunfishcode.online&gt;<br />Copyright (c) 2015-2019 Doug Tangren<br /></td>
+<td>is-terminal</td><td><a href="https://crates.io/crates/is-terminal/0.4.9">https://crates.io/crates/is-terminal/0.4.9</a></td><td>MIT</td><td>Authors: softprops &lt;d.tangren@gmail.com&gt;, Dan Gohman &lt;dev@sunfishcode.online&gt;<br />Copyright (c) 2015-2019 Doug Tangren</td>
 </tr>
 <tr>
-<td>itoa</td><td><a href="https://crates.io/crates/itoa/1.0.9">https://crates.io/crates/itoa/1.0.9</a></td><td>MIT OR Apache-2.0</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;<br /></td>
+<td>itoa</td><td><a href="https://crates.io/crates/itoa/1.0.9">https://crates.io/crates/itoa/1.0.9</a></td><td>MIT OR Apache-2.0</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>js-sys</td><td><a href="https://crates.io/crates/js-sys/0.3.64">https://crates.io/crates/js-sys/0.3.64</a></td><td>MIT/Apache-2.0</td><td>Authors: The wasm-bindgen Developers<br />Copyright (c) 2014 Alex Crichton<br /></td>
+<td>js-sys</td><td><a href="https://crates.io/crates/js-sys/0.3.64">https://crates.io/crates/js-sys/0.3.64</a></td><td>MIT/Apache-2.0</td><td>Authors: The wasm-bindgen Developers<br />Copyright (c) 2014 Alex Crichton</td>
 </tr>
 <tr>
-<td>lazy_static</td><td><a href="https://crates.io/crates/lazy_static/1.4.0">https://crates.io/crates/lazy_static/1.4.0</a></td><td>MIT/Apache-2.0</td><td>Authors: Marvin Löbel &lt;loebel.marvin@gmail.com&gt;<br />Copyright (c) 2010 The Rust Project Developers<br /></td>
+<td>lazy_static</td><td><a href="https://crates.io/crates/lazy_static/1.4.0">https://crates.io/crates/lazy_static/1.4.0</a></td><td>MIT/Apache-2.0</td><td>Authors: Marvin Löbel &lt;loebel.marvin@gmail.com&gt;<br />Copyright (c) 2010 The Rust Project Developers</td>
 </tr>
 <tr>
-<td>libc</td><td><a href="https://crates.io/crates/libc/0.2.147">https://crates.io/crates/libc/0.2.147</a></td><td>MIT OR Apache-2.0</td><td>Authors: The Rust Project Developers<br />Copyright (c) 2014-2020 The Rust Project Developers<br /></td>
+<td>libc</td><td><a href="https://crates.io/crates/libc/0.2.147">https://crates.io/crates/libc/0.2.147</a></td><td>MIT OR Apache-2.0</td><td>Authors: The Rust Project Developers<br />Copyright (c) 2014-2020 The Rust Project Developers</td>
 </tr>
 <tr>
-<td>license</td><td><a href="https://crates.io/crates/license/3.1.1">https://crates.io/crates/license/3.1.1</a></td><td>MIT OR Apache-2.0</td><td>Authors: evenorog &lt;evenorog@gmail.com&gt;<br />Copyright (c) 2017 Even Olsson Rogstadkjærnet &lt;evenorog@gmail.com&gt;<br /></td>
+<td>license</td><td><a href="https://crates.io/crates/license/3.1.1">https://crates.io/crates/license/3.1.1</a></td><td>MIT OR Apache-2.0</td><td>Authors: evenorog &lt;evenorog@gmail.com&gt;<br />Copyright (c) 2017 Even Olsson Rogstadkjærnet &lt;evenorog@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>linux-raw-sys</td><td><a href="https://crates.io/crates/linux-raw-sys/0.4.5">https://crates.io/crates/linux-raw-sys/0.4.5</a></td><td>Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT</td><td>Authors: Dan Gohman &lt;dev@sunfishcode.online&gt;<br /></td>
+<td>linux-raw-sys</td><td><a href="https://crates.io/crates/linux-raw-sys/0.4.5">https://crates.io/crates/linux-raw-sys/0.4.5</a></td><td>Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT</td><td>Authors: Dan Gohman &lt;dev@sunfishcode.online&gt;</td>
 </tr>
 <tr>
-<td>log</td><td><a href="https://crates.io/crates/log/0.4.20">https://crates.io/crates/log/0.4.20</a></td><td>MIT OR Apache-2.0</td><td>Authors: The Rust Project Developers<br />Copyright (c) 2014 The Rust Project Developers<br /></td>
+<td>log</td><td><a href="https://crates.io/crates/log/0.4.20">https://crates.io/crates/log/0.4.20</a></td><td>MIT OR Apache-2.0</td><td>Authors: The Rust Project Developers<br />Copyright (c) 2014 The Rust Project Developers</td>
 </tr>
 <tr>
-<td>memchr</td><td><a href="https://crates.io/crates/memchr/2.6.3">https://crates.io/crates/memchr/2.6.3</a></td><td>Unlicense OR MIT</td><td>Authors: Andrew Gallant &lt;jamslam@gmail.com&gt;, bluss<br />Copyright (c) 2015 Andrew Gallant<br /></td>
+<td>memchr</td><td><a href="https://crates.io/crates/memchr/2.6.3">https://crates.io/crates/memchr/2.6.3</a></td><td>Unlicense OR MIT</td><td>Copyright (c) 2015 Andrew Gallant<br />Authors: Andrew Gallant &lt;jamslam@gmail.com&gt;, bluss</td>
 </tr>
 <tr>
-<td>num-traits</td><td><a href="https://crates.io/crates/num-traits/0.2.16">https://crates.io/crates/num-traits/0.2.16</a></td><td>MIT OR Apache-2.0</td><td>Authors: The Rust Project Developers<br />Copyright (c) 2014 The Rust Project Developers<br /></td>
+<td>num-traits</td><td><a href="https://crates.io/crates/num-traits/0.2.16">https://crates.io/crates/num-traits/0.2.16</a></td><td>MIT OR Apache-2.0</td><td>Authors: The Rust Project Developers<br />Copyright (c) 2014 The Rust Project Developers</td>
 </tr>
 <tr>
-<td>once_cell</td><td><a href="https://crates.io/crates/once_cell/1.18.0">https://crates.io/crates/once_cell/1.18.0</a></td><td>MIT OR Apache-2.0</td><td>Authors: Aleksey Kladov &lt;aleksey.kladov@gmail.com&gt;<br /></td>
+<td>once_cell</td><td><a href="https://crates.io/crates/once_cell/1.18.0">https://crates.io/crates/once_cell/1.18.0</a></td><td>MIT OR Apache-2.0</td><td>Authors: Aleksey Kladov &lt;aleksey.kladov@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>prettyplease</td><td><a href="https://crates.io/crates/prettyplease/0.1.25">https://crates.io/crates/prettyplease/0.1.25</a></td><td>MIT OR Apache-2.0</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;<br /></td>
+<td>prettyplease</td><td><a href="https://crates.io/crates/prettyplease/0.1.25">https://crates.io/crates/prettyplease/0.1.25</a></td><td>MIT OR Apache-2.0</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>proc-macro2</td><td><a href="https://crates.io/crates/proc-macro2/1.0.66">https://crates.io/crates/proc-macro2/1.0.66</a></td><td>MIT OR Apache-2.0</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;, Alex Crichton &lt;alex@alexcrichton.com&gt;<br /></td>
+<td>proc-macro2</td><td><a href="https://crates.io/crates/proc-macro2/1.0.66">https://crates.io/crates/proc-macro2/1.0.66</a></td><td>MIT OR Apache-2.0</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;, Alex Crichton &lt;alex@alexcrichton.com&gt;</td>
 </tr>
 <tr>
-<td>quote</td><td><a href="https://crates.io/crates/quote/1.0.33">https://crates.io/crates/quote/1.0.33</a></td><td>MIT OR Apache-2.0</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;<br /></td>
+<td>quote</td><td><a href="https://crates.io/crates/quote/1.0.33">https://crates.io/crates/quote/1.0.33</a></td><td>MIT OR Apache-2.0</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>regex</td><td><a href="https://crates.io/crates/regex/1.9.5">https://crates.io/crates/regex/1.9.5</a></td><td>MIT OR Apache-2.0</td><td>Authors: The Rust Project Developers, Andrew Gallant &lt;jamslam@gmail.com&gt;<br />Copyright (c) 2014 The Rust Project Developers<br /></td>
+<td>regex</td><td><a href="https://crates.io/crates/regex/1.9.5">https://crates.io/crates/regex/1.9.5</a></td><td>MIT OR Apache-2.0</td><td>Authors: The Rust Project Developers, Andrew Gallant &lt;jamslam@gmail.com&gt;<br />Copyright (c) 2014 The Rust Project Developers</td>
 </tr>
 <tr>
-<td>regex-automata</td><td><a href="https://crates.io/crates/regex-automata/0.3.8">https://crates.io/crates/regex-automata/0.3.8</a></td><td>MIT OR Apache-2.0</td><td>Authors: The Rust Project Developers, Andrew Gallant &lt;jamslam@gmail.com&gt;<br />Copyright (c) 2014 The Rust Project Developers<br /></td>
+<td>regex-automata</td><td><a href="https://crates.io/crates/regex-automata/0.3.8">https://crates.io/crates/regex-automata/0.3.8</a></td><td>MIT OR Apache-2.0</td><td>Authors: The Rust Project Developers, Andrew Gallant &lt;jamslam@gmail.com&gt;<br />Copyright (c) 2014 The Rust Project Developers</td>
 </tr>
 <tr>
-<td>regex-syntax</td><td><a href="https://crates.io/crates/regex-syntax/0.7.5">https://crates.io/crates/regex-syntax/0.7.5</a></td><td>MIT OR Apache-2.0</td><td>Authors: The Rust Project Developers, Andrew Gallant &lt;jamslam@gmail.com&gt;<br />Copyright (c) 2014 The Rust Project Developers<br /></td>
+<td>regex-syntax</td><td><a href="https://crates.io/crates/regex-syntax/0.7.5">https://crates.io/crates/regex-syntax/0.7.5</a></td><td>MIT OR Apache-2.0</td><td>Authors: The Rust Project Developers, Andrew Gallant &lt;jamslam@gmail.com&gt;<br />Copyright (c) 2014 The Rust Project Developers</td>
 </tr>
 <tr>
-<td>reword</td><td><a href="https://crates.io/crates/reword/7.0.0">https://crates.io/crates/reword/7.0.0</a></td><td>MIT OR Apache-2.0</td><td>Authors: evenorog &lt;evenorog@gmail.com&gt;<br />Copyright (c) 2020 Even Olsson Rogstadkjærnet &lt;evenorog@gmail.com&gt;<br /></td>
+<td>reword</td><td><a href="https://crates.io/crates/reword/7.0.0">https://crates.io/crates/reword/7.0.0</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) 2020 Even Olsson Rogstadkjærnet &lt;evenorog@gmail.com&gt;<br />Authors: evenorog &lt;evenorog@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>rustix</td><td><a href="https://crates.io/crates/rustix/0.38.11">https://crates.io/crates/rustix/0.38.11</a></td><td>Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT</td><td>Authors: Dan Gohman &lt;dev@sunfishcode.online&gt;, Jakub Konka &lt;kubkon@jakubkonka.com&gt;<br /></td>
+<td>rustix</td><td><a href="https://crates.io/crates/rustix/0.38.11">https://crates.io/crates/rustix/0.38.11</a></td><td>Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT</td><td>Authors: Dan Gohman &lt;dev@sunfishcode.online&gt;, Jakub Konka &lt;kubkon@jakubkonka.com&gt;</td>
 </tr>
 <tr>
-<td>ryu</td><td><a href="https://crates.io/crates/ryu/1.0.15">https://crates.io/crates/ryu/1.0.15</a></td><td>Apache-2.0 OR BSL-1.0</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;<br /></td>
+<td>ryu</td><td><a href="https://crates.io/crates/ryu/1.0.15">https://crates.io/crates/ryu/1.0.15</a></td><td>Apache-2.0 OR BSL-1.0</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>schemafy_core</td><td><a href="https://crates.io/crates/schemafy_core/0.6.0">https://crates.io/crates/schemafy_core/0.6.0</a></td><td>MIT</td><td>Authors: Markus Westerlind &lt;marwes91@gmail.com&gt;<br /></td>
+<td>schemafy_core</td><td><a href="https://crates.io/crates/schemafy_core/0.6.0">https://crates.io/crates/schemafy_core/0.6.0</a></td><td>MIT</td><td>Authors: Markus Westerlind &lt;marwes91@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>schemafy_lib</td><td><a href="https://crates.io/crates/schemafy_lib/0.6.0">https://crates.io/crates/schemafy_lib/0.6.0</a></td><td>MIT</td><td>Authors: Markus Westerlind &lt;marwes91@gmail.com&gt;, MATILLAT Quentin &lt;qmatillat@gmail.com&gt;<br /></td>
+<td>schemafy_lib</td><td><a href="https://crates.io/crates/schemafy_lib/0.6.0">https://crates.io/crates/schemafy_lib/0.6.0</a></td><td>MIT</td><td>Authors: Markus Westerlind &lt;marwes91@gmail.com&gt;, MATILLAT Quentin &lt;qmatillat@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>semver</td><td><a href="https://crates.io/crates/semver/1.0.18">https://crates.io/crates/semver/1.0.18</a></td><td>MIT OR Apache-2.0</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;<br /></td>
+<td>semver</td><td><a href="https://crates.io/crates/semver/1.0.18">https://crates.io/crates/semver/1.0.18</a></td><td>MIT OR Apache-2.0</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>serde</td><td><a href="https://crates.io/crates/serde/1.0.188">https://crates.io/crates/serde/1.0.188</a></td><td>MIT OR Apache-2.0</td><td>Authors: Erick Tryzelaar &lt;erick.tryzelaar@gmail.com&gt;, David Tolnay &lt;dtolnay@gmail.com&gt;<br /></td>
+<td>serde</td><td><a href="https://crates.io/crates/serde/1.0.188">https://crates.io/crates/serde/1.0.188</a></td><td>MIT OR Apache-2.0</td><td>Authors: Erick Tryzelaar &lt;erick.tryzelaar@gmail.com&gt;, David Tolnay &lt;dtolnay@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>serde-spdx</td><td><a href="https://crates.io/crates/serde-spdx/0.8.4">https://crates.io/crates/serde-spdx/0.8.4</a></td><td>MIT</td><td>Authors: Paul Sastrasinh &lt;psastras@gmail.com&gt;<br />Copyright (c) 2023 Paul Sastrasinh<br /></td>
+<td>serde-spdx</td><td><a href="https://crates.io/crates/serde-spdx/0.8.4">https://crates.io/crates/serde-spdx/0.8.4</a></td><td>MIT</td><td>Copyright (c) 2023 Paul Sastrasinh<br />Authors: Paul Sastrasinh &lt;psastras@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>serde_derive</td><td><a href="https://crates.io/crates/serde_derive/1.0.188">https://crates.io/crates/serde_derive/1.0.188</a></td><td>MIT OR Apache-2.0</td><td>Authors: Erick Tryzelaar &lt;erick.tryzelaar@gmail.com&gt;, David Tolnay &lt;dtolnay@gmail.com&gt;<br /></td>
+<td>serde_derive</td><td><a href="https://crates.io/crates/serde_derive/1.0.188">https://crates.io/crates/serde_derive/1.0.188</a></td><td>MIT OR Apache-2.0</td><td>Authors: Erick Tryzelaar &lt;erick.tryzelaar@gmail.com&gt;, David Tolnay &lt;dtolnay@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>serde_json</td><td><a href="https://crates.io/crates/serde_json/1.0.105">https://crates.io/crates/serde_json/1.0.105</a></td><td>MIT OR Apache-2.0</td><td>Authors: Erick Tryzelaar &lt;erick.tryzelaar@gmail.com&gt;, David Tolnay &lt;dtolnay@gmail.com&gt;<br /></td>
+<td>serde_json</td><td><a href="https://crates.io/crates/serde_json/1.0.105">https://crates.io/crates/serde_json/1.0.105</a></td><td>MIT OR Apache-2.0</td><td>Authors: Erick Tryzelaar &lt;erick.tryzelaar@gmail.com&gt;, David Tolnay &lt;dtolnay@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>serde_spanned</td><td><a href="https://crates.io/crates/serde_spanned/0.6.3">https://crates.io/crates/serde_spanned/0.6.3</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) 2014 Alex Crichton<br /></td>
+<td>serde_spanned</td><td><a href="https://crates.io/crates/serde_spanned/0.6.3">https://crates.io/crates/serde_spanned/0.6.3</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) 2014 Alex Crichton</td>
 </tr>
 <tr>
-<td>smallvec</td><td><a href="https://crates.io/crates/smallvec/1.11.0">https://crates.io/crates/smallvec/1.11.0</a></td><td>MIT OR Apache-2.0</td><td>Authors: The Servo Project Developers<br />Copyright (c) 2018 The Servo Project Developers<br /></td>
+<td>smallvec</td><td><a href="https://crates.io/crates/smallvec/1.11.0">https://crates.io/crates/smallvec/1.11.0</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) 2018 The Servo Project Developers<br />Authors: The Servo Project Developers</td>
 </tr>
 <tr>
-<td>spdx</td><td><a href="https://crates.io/crates/spdx/0.10.2">https://crates.io/crates/spdx/0.10.2</a></td><td>MIT OR Apache-2.0</td><td>Authors: Embark &lt;opensource@embark-studios.com&gt;, Jake Shadle &lt;jake.shadle@embark-studios.com&gt;<br />Copyright (c) 2019 Embark Studios<br /></td>
+<td>spdx</td><td><a href="https://crates.io/crates/spdx/0.10.2">https://crates.io/crates/spdx/0.10.2</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) 2019 Embark Studios<br />Authors: Embark &lt;opensource@embark-studios.com&gt;, Jake Shadle &lt;jake.shadle@embark-studios.com&gt;</td>
 </tr>
 <tr>
-<td>strsim</td><td><a href="https://crates.io/crates/strsim/0.10.0">https://crates.io/crates/strsim/0.10.0</a></td><td>MIT</td><td>Authors: Danny Guo &lt;danny@dannyguo.com&gt;<br />Copyright (c) 2015 Danny Guo<br />Copyright (c) 2016 Titus Wormer &lt;tituswormer@gmail.com&gt;<br />Copyright (c) 2018 Akash Kurdekar<br /></td>
+<td>strsim</td><td><a href="https://crates.io/crates/strsim/0.10.0">https://crates.io/crates/strsim/0.10.0</a></td><td>MIT</td><td>Copyright (c) 2016 Titus Wormer &lt;tituswormer@gmail.com&gt;<br />Copyright (c) 2015 Danny Guo<br />Copyright (c) 2018 Akash Kurdekar<br />Authors: Danny Guo &lt;danny@dannyguo.com&gt;</td>
 </tr>
 <tr>
-<td>syn</td><td><a href="https://crates.io/crates/syn/1.0.109">https://crates.io/crates/syn/1.0.109</a></td><td>MIT OR Apache-2.0</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;<br /></td>
+<td>syn</td><td><a href="https://crates.io/crates/syn/1.0.109">https://crates.io/crates/syn/1.0.109</a></td><td>MIT OR Apache-2.0</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>syn</td><td><a href="https://crates.io/crates/syn/2.0.31">https://crates.io/crates/syn/2.0.31</a></td><td>MIT OR Apache-2.0</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;<br /></td>
+<td>syn</td><td><a href="https://crates.io/crates/syn/2.0.31">https://crates.io/crates/syn/2.0.31</a></td><td>MIT OR Apache-2.0</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>termcolor</td><td><a href="https://crates.io/crates/termcolor/1.2.0">https://crates.io/crates/termcolor/1.2.0</a></td><td>Unlicense OR MIT</td><td>Authors: Andrew Gallant &lt;jamslam@gmail.com&gt;<br />Copyright (c) 2015 Andrew Gallant<br /></td>
+<td>termcolor</td><td><a href="https://crates.io/crates/termcolor/1.2.0">https://crates.io/crates/termcolor/1.2.0</a></td><td>Unlicense OR MIT</td><td>Authors: Andrew Gallant &lt;jamslam@gmail.com&gt;<br />Copyright (c) 2015 Andrew Gallant</td>
 </tr>
 <tr>
-<td>thiserror</td><td><a href="https://crates.io/crates/thiserror/1.0.48">https://crates.io/crates/thiserror/1.0.48</a></td><td>MIT OR Apache-2.0</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;<br /></td>
+<td>thiserror</td><td><a href="https://crates.io/crates/thiserror/1.0.48">https://crates.io/crates/thiserror/1.0.48</a></td><td>MIT OR Apache-2.0</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>thiserror-impl</td><td><a href="https://crates.io/crates/thiserror-impl/1.0.48">https://crates.io/crates/thiserror-impl/1.0.48</a></td><td>MIT OR Apache-2.0</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;<br /></td>
+<td>thiserror-impl</td><td><a href="https://crates.io/crates/thiserror-impl/1.0.48">https://crates.io/crates/thiserror-impl/1.0.48</a></td><td>MIT OR Apache-2.0</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>time</td><td><a href="https://crates.io/crates/time/0.1.45">https://crates.io/crates/time/0.1.45</a></td><td>MIT/Apache-2.0</td><td>Authors: The Rust Project Developers<br />Copyright (c) 2014 The Rust Project Developers<br /></td>
+<td>time</td><td><a href="https://crates.io/crates/time/0.1.45">https://crates.io/crates/time/0.1.45</a></td><td>MIT/Apache-2.0</td><td>Copyright (c) 2014 The Rust Project Developers<br />Authors: The Rust Project Developers</td>
 </tr>
 <tr>
-<td>toml</td><td><a href="https://crates.io/crates/toml/0.7.6">https://crates.io/crates/toml/0.7.6</a></td><td>MIT OR Apache-2.0</td><td>Authors: Alex Crichton &lt;alex@alexcrichton.com&gt;<br />Copyright (c) 2014 Alex Crichton<br /></td>
+<td>toml</td><td><a href="https://crates.io/crates/toml/0.7.6">https://crates.io/crates/toml/0.7.6</a></td><td>MIT OR Apache-2.0</td><td>Authors: Alex Crichton &lt;alex@alexcrichton.com&gt;<br />Copyright (c) 2014 Alex Crichton</td>
 </tr>
 <tr>
-<td>toml_datetime</td><td><a href="https://crates.io/crates/toml_datetime/0.6.3">https://crates.io/crates/toml_datetime/0.6.3</a></td><td>MIT OR Apache-2.0</td><td>Authors: Alex Crichton &lt;alex@alexcrichton.com&gt;<br />Copyright (c) 2014 Alex Crichton<br /></td>
+<td>toml_datetime</td><td><a href="https://crates.io/crates/toml_datetime/0.6.3">https://crates.io/crates/toml_datetime/0.6.3</a></td><td>MIT OR Apache-2.0</td><td>Authors: Alex Crichton &lt;alex@alexcrichton.com&gt;<br />Copyright (c) 2014 Alex Crichton</td>
 </tr>
 <tr>
-<td>toml_edit</td><td><a href="https://crates.io/crates/toml_edit/0.19.14">https://crates.io/crates/toml_edit/0.19.14</a></td><td>MIT OR Apache-2.0</td><td>Authors: Andronik Ordian &lt;write@reusable.software&gt;, Ed Page &lt;eopage@gmail.com&gt;<br />Copyright (c) 2017 Andronik Ordian<br /></td>
+<td>toml_edit</td><td><a href="https://crates.io/crates/toml_edit/0.19.14">https://crates.io/crates/toml_edit/0.19.14</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) 2017 Andronik Ordian<br />Authors: Andronik Ordian &lt;write@reusable.software&gt;, Ed Page &lt;eopage@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>unicode-ident</td><td><a href="https://crates.io/crates/unicode-ident/1.0.11">https://crates.io/crates/unicode-ident/1.0.11</a></td><td>(MIT OR Apache-2.0) AND Unicode-DFS-2016</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;<br />Copyright © 1991-2022 Unicode, Inc. All rights reserved.<br /></td>
+<td>unicode-ident</td><td><a href="https://crates.io/crates/unicode-ident/1.0.11">https://crates.io/crates/unicode-ident/1.0.11</a></td><td>(MIT OR Apache-2.0) AND Unicode-DFS-2016</td><td>Authors: David Tolnay &lt;dtolnay@gmail.com&gt;<br />Copyright © 1991-2022 Unicode, Inc. All rights reserved.</td>
 </tr>
 <tr>
-<td>unicode-segmentation</td><td><a href="https://crates.io/crates/unicode-segmentation/1.10.1">https://crates.io/crates/unicode-segmentation/1.10.1</a></td><td>MIT/Apache-2.0</td><td>Authors: kwantam &lt;kwantam@gmail.com&gt;, Manish Goregaokar &lt;manishsmail@gmail.com&gt;<br />Copyright (c) 2015 The Rust Project Developers<br /></td>
+<td>unicode-segmentation</td><td><a href="https://crates.io/crates/unicode-segmentation/1.10.1">https://crates.io/crates/unicode-segmentation/1.10.1</a></td><td>MIT/Apache-2.0</td><td>Authors: kwantam &lt;kwantam@gmail.com&gt;, Manish Goregaokar &lt;manishsmail@gmail.com&gt;<br />Copyright (c) 2015 The Rust Project Developers</td>
 </tr>
 <tr>
-<td>uriparse</td><td><a href="https://crates.io/crates/uriparse/0.6.4">https://crates.io/crates/uriparse/0.6.4</a></td><td>MIT</td><td>Authors: Scott Godwin &lt;sgodwincs@gmail.com&gt;<br />Copyright (c) 2017 sgodwincs<br /></td>
+<td>uriparse</td><td><a href="https://crates.io/crates/uriparse/0.6.4">https://crates.io/crates/uriparse/0.6.4</a></td><td>MIT</td><td>Authors: Scott Godwin &lt;sgodwincs@gmail.com&gt;<br />Copyright (c) 2017 sgodwincs</td>
 </tr>
 <tr>
-<td>utf8-width</td><td><a href="https://crates.io/crates/utf8-width/0.1.6">https://crates.io/crates/utf8-width/0.1.6</a></td><td>MIT</td><td>Authors: Magic Len &lt;len@magiclen.org&gt;<br />Copyright (c) 2020 magiclen.org (Ron Li)<br /></td>
+<td>utf8-width</td><td><a href="https://crates.io/crates/utf8-width/0.1.6">https://crates.io/crates/utf8-width/0.1.6</a></td><td>MIT</td><td>Copyright (c) 2020 magiclen.org (Ron Li)<br />Authors: Magic Len &lt;len@magiclen.org&gt;</td>
 </tr>
 <tr>
-<td>utf8parse</td><td><a href="https://crates.io/crates/utf8parse/0.2.1">https://crates.io/crates/utf8parse/0.2.1</a></td><td>Apache-2.0 OR MIT</td><td>Authors: Joe Wilm &lt;joe@jwilm.com&gt;, Christian Duerr &lt;contact@christianduerr.com&gt;<br />Copyright (c) 2016 Joe Wilm<br /></td>
+<td>utf8parse</td><td><a href="https://crates.io/crates/utf8parse/0.2.1">https://crates.io/crates/utf8parse/0.2.1</a></td><td>Apache-2.0 OR MIT</td><td>Copyright (c) 2016 Joe Wilm<br />Authors: Joe Wilm &lt;joe@jwilm.com&gt;, Christian Duerr &lt;contact@christianduerr.com&gt;</td>
 </tr>
 <tr>
-<td>wasi</td><td><a href="https://crates.io/crates/wasi/0.10.0+wasi-snapshot-preview1">https://crates.io/crates/wasi/0.10.0+wasi-snapshot-preview1</a></td><td>Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT</td><td>Authors: The Cranelift Project Developers<br /></td>
+<td>wasi</td><td><a href="https://crates.io/crates/wasi/0.10.0+wasi-snapshot-preview1">https://crates.io/crates/wasi/0.10.0+wasi-snapshot-preview1</a></td><td>Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT</td><td>Authors: The Cranelift Project Developers</td>
 </tr>
 <tr>
-<td>wasm-bindgen</td><td><a href="https://crates.io/crates/wasm-bindgen/0.2.87">https://crates.io/crates/wasm-bindgen/0.2.87</a></td><td>MIT/Apache-2.0</td><td>Authors: The wasm-bindgen Developers<br />Copyright (c) 2014 Alex Crichton<br /></td>
+<td>wasm-bindgen</td><td><a href="https://crates.io/crates/wasm-bindgen/0.2.87">https://crates.io/crates/wasm-bindgen/0.2.87</a></td><td>MIT/Apache-2.0</td><td>Copyright (c) 2014 Alex Crichton<br />Authors: The wasm-bindgen Developers</td>
 </tr>
 <tr>
-<td>wasm-bindgen-backend</td><td><a href="https://crates.io/crates/wasm-bindgen-backend/0.2.87">https://crates.io/crates/wasm-bindgen-backend/0.2.87</a></td><td>MIT/Apache-2.0</td><td>Authors: The wasm-bindgen Developers<br />Copyright (c) 2014 Alex Crichton<br /></td>
+<td>wasm-bindgen-backend</td><td><a href="https://crates.io/crates/wasm-bindgen-backend/0.2.87">https://crates.io/crates/wasm-bindgen-backend/0.2.87</a></td><td>MIT/Apache-2.0</td><td>Authors: The wasm-bindgen Developers<br />Copyright (c) 2014 Alex Crichton</td>
 </tr>
 <tr>
-<td>wasm-bindgen-macro</td><td><a href="https://crates.io/crates/wasm-bindgen-macro/0.2.87">https://crates.io/crates/wasm-bindgen-macro/0.2.87</a></td><td>MIT/Apache-2.0</td><td>Authors: The wasm-bindgen Developers<br />Copyright (c) 2014 Alex Crichton<br /></td>
+<td>wasm-bindgen-macro</td><td><a href="https://crates.io/crates/wasm-bindgen-macro/0.2.87">https://crates.io/crates/wasm-bindgen-macro/0.2.87</a></td><td>MIT/Apache-2.0</td><td>Authors: The wasm-bindgen Developers<br />Copyright (c) 2014 Alex Crichton</td>
 </tr>
 <tr>
-<td>wasm-bindgen-macro-support</td><td><a href="https://crates.io/crates/wasm-bindgen-macro-support/0.2.87">https://crates.io/crates/wasm-bindgen-macro-support/0.2.87</a></td><td>MIT/Apache-2.0</td><td>Authors: The wasm-bindgen Developers<br />Copyright (c) 2014 Alex Crichton<br /></td>
+<td>wasm-bindgen-macro-support</td><td><a href="https://crates.io/crates/wasm-bindgen-macro-support/0.2.87">https://crates.io/crates/wasm-bindgen-macro-support/0.2.87</a></td><td>MIT/Apache-2.0</td><td>Authors: The wasm-bindgen Developers<br />Copyright (c) 2014 Alex Crichton</td>
 </tr>
 <tr>
-<td>wasm-bindgen-shared</td><td><a href="https://crates.io/crates/wasm-bindgen-shared/0.2.87">https://crates.io/crates/wasm-bindgen-shared/0.2.87</a></td><td>MIT/Apache-2.0</td><td>Authors: The wasm-bindgen Developers<br />Copyright (c) 2014 Alex Crichton<br /></td>
+<td>wasm-bindgen-shared</td><td><a href="https://crates.io/crates/wasm-bindgen-shared/0.2.87">https://crates.io/crates/wasm-bindgen-shared/0.2.87</a></td><td>MIT/Apache-2.0</td><td>Copyright (c) 2014 Alex Crichton<br />Authors: The wasm-bindgen Developers</td>
 </tr>
 <tr>
-<td>winapi</td><td><a href="https://crates.io/crates/winapi/0.3.9">https://crates.io/crates/winapi/0.3.9</a></td><td>MIT/Apache-2.0</td><td>Authors: Peter Atashian &lt;retep998@gmail.com&gt;<br />Copyright (c) 2015-2018 The winapi-rs Developers<br /></td>
+<td>winapi</td><td><a href="https://crates.io/crates/winapi/0.3.9">https://crates.io/crates/winapi/0.3.9</a></td><td>MIT/Apache-2.0</td><td>Authors: Peter Atashian &lt;retep998@gmail.com&gt;<br />Copyright (c) 2015-2018 The winapi-rs Developers</td>
 </tr>
 <tr>
-<td>winapi-i686-pc-windows-gnu</td><td><a href="https://crates.io/crates/winapi-i686-pc-windows-gnu/0.4.0">https://crates.io/crates/winapi-i686-pc-windows-gnu/0.4.0</a></td><td>MIT/Apache-2.0</td><td>Authors: Peter Atashian &lt;retep998@gmail.com&gt;<br /></td>
+<td>winapi-i686-pc-windows-gnu</td><td><a href="https://crates.io/crates/winapi-i686-pc-windows-gnu/0.4.0">https://crates.io/crates/winapi-i686-pc-windows-gnu/0.4.0</a></td><td>MIT/Apache-2.0</td><td>Authors: Peter Atashian &lt;retep998@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>winapi-util</td><td><a href="https://crates.io/crates/winapi-util/0.1.5">https://crates.io/crates/winapi-util/0.1.5</a></td><td>Unlicense/MIT</td><td>Authors: Andrew Gallant &lt;jamslam@gmail.com&gt;<br />Copyright (c) 2017 Andrew Gallant<br /></td>
+<td>winapi-util</td><td><a href="https://crates.io/crates/winapi-util/0.1.5">https://crates.io/crates/winapi-util/0.1.5</a></td><td>Unlicense/MIT</td><td>Authors: Andrew Gallant &lt;jamslam@gmail.com&gt;<br />Copyright (c) 2017 Andrew Gallant</td>
 </tr>
 <tr>
-<td>winapi-x86_64-pc-windows-gnu</td><td><a href="https://crates.io/crates/winapi-x86_64-pc-windows-gnu/0.4.0">https://crates.io/crates/winapi-x86_64-pc-windows-gnu/0.4.0</a></td><td>MIT/Apache-2.0</td><td>Authors: Peter Atashian &lt;retep998@gmail.com&gt;<br /></td>
+<td>winapi-x86_64-pc-windows-gnu</td><td><a href="https://crates.io/crates/winapi-x86_64-pc-windows-gnu/0.4.0">https://crates.io/crates/winapi-x86_64-pc-windows-gnu/0.4.0</a></td><td>MIT/Apache-2.0</td><td>Authors: Peter Atashian &lt;retep998@gmail.com&gt;</td>
 </tr>
 <tr>
-<td>windows</td><td><a href="https://crates.io/crates/windows/0.48.0">https://crates.io/crates/windows/0.48.0</a></td><td>MIT OR Apache-2.0</td><td>Authors: Microsoft<br />Copyright (c) Microsoft Corporation.<br />Copyright (c) Microsoft Corporation.<br /></td>
+<td>windows</td><td><a href="https://crates.io/crates/windows/0.48.0">https://crates.io/crates/windows/0.48.0</a></td><td>MIT OR Apache-2.0</td><td>Authors: Microsoft<br />Copyright (c) Microsoft Corporation.</td>
 </tr>
 <tr>
-<td>windows-sys</td><td><a href="https://crates.io/crates/windows-sys/0.48.0">https://crates.io/crates/windows-sys/0.48.0</a></td><td>MIT OR Apache-2.0</td><td>Authors: Microsoft<br />Copyright (c) Microsoft Corporation.<br />Copyright (c) Microsoft Corporation.<br /></td>
+<td>windows-sys</td><td><a href="https://crates.io/crates/windows-sys/0.48.0">https://crates.io/crates/windows-sys/0.48.0</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) Microsoft Corporation.<br />Authors: Microsoft</td>
 </tr>
 <tr>
-<td>windows-targets</td><td><a href="https://crates.io/crates/windows-targets/0.48.5">https://crates.io/crates/windows-targets/0.48.5</a></td><td>MIT OR Apache-2.0</td><td>Authors: Microsoft<br />Copyright (c) Microsoft Corporation.<br />Copyright (c) Microsoft Corporation.<br /></td>
+<td>windows-targets</td><td><a href="https://crates.io/crates/windows-targets/0.48.5">https://crates.io/crates/windows-targets/0.48.5</a></td><td>MIT OR Apache-2.0</td><td>Authors: Microsoft<br />Copyright (c) Microsoft Corporation.</td>
 </tr>
 <tr>
-<td>windows_aarch64_gnullvm</td><td><a href="https://crates.io/crates/windows_aarch64_gnullvm/0.48.5">https://crates.io/crates/windows_aarch64_gnullvm/0.48.5</a></td><td>MIT OR Apache-2.0</td><td>Authors: Microsoft<br />Copyright (c) Microsoft Corporation.<br />Copyright (c) Microsoft Corporation.<br /></td>
+<td>windows_aarch64_gnullvm</td><td><a href="https://crates.io/crates/windows_aarch64_gnullvm/0.48.5">https://crates.io/crates/windows_aarch64_gnullvm/0.48.5</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) Microsoft Corporation.<br />Authors: Microsoft</td>
 </tr>
 <tr>
-<td>windows_aarch64_msvc</td><td><a href="https://crates.io/crates/windows_aarch64_msvc/0.48.5">https://crates.io/crates/windows_aarch64_msvc/0.48.5</a></td><td>MIT OR Apache-2.0</td><td>Authors: Microsoft<br />Copyright (c) Microsoft Corporation.<br />Copyright (c) Microsoft Corporation.<br /></td>
+<td>windows_aarch64_msvc</td><td><a href="https://crates.io/crates/windows_aarch64_msvc/0.48.5">https://crates.io/crates/windows_aarch64_msvc/0.48.5</a></td><td>MIT OR Apache-2.0</td><td>Authors: Microsoft<br />Copyright (c) Microsoft Corporation.</td>
 </tr>
 <tr>
-<td>windows_i686_gnu</td><td><a href="https://crates.io/crates/windows_i686_gnu/0.48.5">https://crates.io/crates/windows_i686_gnu/0.48.5</a></td><td>MIT OR Apache-2.0</td><td>Authors: Microsoft<br />Copyright (c) Microsoft Corporation.<br />Copyright (c) Microsoft Corporation.<br /></td>
+<td>windows_i686_gnu</td><td><a href="https://crates.io/crates/windows_i686_gnu/0.48.5">https://crates.io/crates/windows_i686_gnu/0.48.5</a></td><td>MIT OR Apache-2.0</td><td>Authors: Microsoft<br />Copyright (c) Microsoft Corporation.</td>
 </tr>
 <tr>
-<td>windows_i686_msvc</td><td><a href="https://crates.io/crates/windows_i686_msvc/0.48.5">https://crates.io/crates/windows_i686_msvc/0.48.5</a></td><td>MIT OR Apache-2.0</td><td>Authors: Microsoft<br />Copyright (c) Microsoft Corporation.<br />Copyright (c) Microsoft Corporation.<br /></td>
+<td>windows_i686_msvc</td><td><a href="https://crates.io/crates/windows_i686_msvc/0.48.5">https://crates.io/crates/windows_i686_msvc/0.48.5</a></td><td>MIT OR Apache-2.0</td><td>Authors: Microsoft<br />Copyright (c) Microsoft Corporation.</td>
 </tr>
 <tr>
-<td>windows_x86_64_gnu</td><td><a href="https://crates.io/crates/windows_x86_64_gnu/0.48.5">https://crates.io/crates/windows_x86_64_gnu/0.48.5</a></td><td>MIT OR Apache-2.0</td><td>Authors: Microsoft<br />Copyright (c) Microsoft Corporation.<br />Copyright (c) Microsoft Corporation.<br /></td>
+<td>windows_x86_64_gnu</td><td><a href="https://crates.io/crates/windows_x86_64_gnu/0.48.5">https://crates.io/crates/windows_x86_64_gnu/0.48.5</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) Microsoft Corporation.<br />Authors: Microsoft</td>
 </tr>
 <tr>
-<td>windows_x86_64_gnullvm</td><td><a href="https://crates.io/crates/windows_x86_64_gnullvm/0.48.5">https://crates.io/crates/windows_x86_64_gnullvm/0.48.5</a></td><td>MIT OR Apache-2.0</td><td>Authors: Microsoft<br />Copyright (c) Microsoft Corporation.<br />Copyright (c) Microsoft Corporation.<br /></td>
+<td>windows_x86_64_gnullvm</td><td><a href="https://crates.io/crates/windows_x86_64_gnullvm/0.48.5">https://crates.io/crates/windows_x86_64_gnullvm/0.48.5</a></td><td>MIT OR Apache-2.0</td><td>Copyright (c) Microsoft Corporation.<br />Authors: Microsoft</td>
 </tr>
 <tr>
-<td>windows_x86_64_msvc</td><td><a href="https://crates.io/crates/windows_x86_64_msvc/0.48.5">https://crates.io/crates/windows_x86_64_msvc/0.48.5</a></td><td>MIT OR Apache-2.0</td><td>Authors: Microsoft<br />Copyright (c) Microsoft Corporation.<br />Copyright (c) Microsoft Corporation.<br /></td>
+<td>windows_x86_64_msvc</td><td><a href="https://crates.io/crates/windows_x86_64_msvc/0.48.5">https://crates.io/crates/windows_x86_64_msvc/0.48.5</a></td><td>MIT OR Apache-2.0</td><td>Authors: Microsoft<br />Copyright (c) Microsoft Corporation.</td>
 </tr>
 <tr>
 <td>winnow</td><td><a href="https://crates.io/crates/winnow/0.5.15">https://crates.io/crates/winnow/0.5.15</a></td><td>MIT</td><td></td>
