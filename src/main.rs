@@ -347,7 +347,7 @@ mod generate {
                     border-collapse: collapse;
                 }}
                 a {{
-                    color: hsl(200, 20%, 50%);
+                    color: hsl(200, 40%, 50%);
                 }}
                 body {{
                     padding: 1em;
